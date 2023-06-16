@@ -1,0 +1,1921 @@
+type ,brand,rating,comments,shipping_cost ,shipping from,sold_quantity ,view_quantity,notice
+208.00 to 375.00,Apple,4,Pre-Owned,32.83,from United States,12,10,Customs services and international tracking provided
+123.90 to 156.45,Samsung,15,Pre-Owned,28.68,from United States,82,166,Customs services and international tracking provided
+198,Samsung,150,Very Good - Refurbished,29.47,from United States,474,21,Customs services and international tracking provided
+404.98 to 424.98,Apple,27,Very Good - Refurbished,25.56,from United States,68,89,Customs services and international tracking provided
+134.95 to 329.95,Samsung,3,Open Box,22.05,from United States,109,99,Customs services and international tracking provided
+120,Galaxy,29,Pre-Owned,20.15,from United States,19,40,Customs services and international tracking provided
+374.32 to 408.13,SAMSUNG,1,Brand New,51.12,from United Kingdom,516,23,Customs services and international tracking provided
+499.00 to 549.00,Apple,9,Excellent - Refurbished,35.19,from United States,77,38,Customs services and international tracking provided
+249.99,Google,9,Open Box,30.45,from United States,90,10,Customs services and international tracking provided
+359.99 to 869.99,Samsung,13,Open Box,34.82,from United States,90,103,Customs services and international tracking provided
+249.99 to 399.99,APPLE,5,Open Box,30.45,from United States,33,43,Customs services and international tracking provided
+459,Apple,142,Open Box,34.43,from United States,188,14,Customs services and international tracking provided
+363.07,Apple,15,Good - Refurbished,50.77,from United Kingdom,"3,889",30,Customs services and international tracking provided
+160.24 to 191.54,New,43,Brand New,45.42,from United Kingdom,58,9,Customs services and international tracking provided
+215,Samsung,11,Good - Refurbished,29.79,from United States,155,20,Customs services and international tracking provided
+149,Samsung,22,Pre-Owned,28.54,from United States,"3,335",7,Customs services and international tracking provided
+37.99,Huawei,107,Pre-Owned,26.43,from United States,85,6,Customs services and international tracking provided
+114.85 to 249.85,Samsung,49,Open Box,20.34,from United States,14,20,Customs services and international tracking provided
+104.95 to 164.95,Apple,142,Open Box,19.96,from United States,30,25,Customs services and international tracking provided
+141.99,New,23,Brand New,44.03,from United Kingdom,409,42,Customs services and international tracking provided
+245,NEW,91,Parts Only,47.11,from United States,181,33,Customs services and international tracking provided
+319.99,LG,6,Brand New,31.78,from United States,23,16,Customs services and international tracking provided
+89.99,Google,142,Pre-Owned,27.41,from United States,725,22,Customs services and international tracking provided
+374.35 to 588.44,Apple,90,Very Good - Refurbished,51.12,from United Kingdom,23,15,Customs services and international tracking provided
+234.95 to 349.95,Samsung,32,Open Box,22.33,from United States,101,17,Customs services and international tracking provided
+152.99,Xiaomi,8,Brand New,28.61,from United States,20,5,Customs services and international tracking provided
+325.51 to 463.23,BRAND,37,Brand New,49.63,from United Kingdom,226,7,Customs services and international tracking provided
+189.95,Samsung,38,Brand New,29.31,from United States,67,63,Customs services and international tracking provided
+194,Samsung,18,Good - Refurbished,29.39,from United States,58,17,Customs services and international tracking provided
+219,Samsung,49,Very Good - Refurbished,29.87,from United States,161,57,None
+169,Samsung,3,Pre-Owned,28.92,from United States,707,9,None
+219,Samsung,11,Good - Refurbished,29.87,from United States,14,13,None
+204.99,Google,47,Very Good - Refurbished,29.6,from United States,24,36,None
+719.78 to 839.88,NEW,37,Brand New,39.38,from United States,123,8,None
+139,Motorola,8,Pre-Owned,28.35,from United States,178,39,None
+168.00 to 287.00,Apple,3,Pre-Owned,28.9,from United States,591,16,None
+397.29 to 589.99,Google,111,Open Box,33.4,from United States,180,35,None
+75,Samsung,5,Pre-Owned,27.13,from United States,188,12,None
+85.12 to 91.26,Samsung,18,Good - Refurbished,47.56,from United Kingdom,840,9,None
+132.99,LG,11,Open Box,28.23,from United States,59,52,None
+309.95,In-Box,18,Open Box,31.59,from United States,59,24,None
+100,NEW,31,Pre-Owned,34.6,from United States,107,22,None
+74.99,New,7,Brand New,19.29,from United States,21,82,None
+169.97,Motorola,11,Pre-Owned,33.9,from United States,294,180,None
+8.98,AT&T,6,Brand New,Free,from United States,31,53,None
+619.97 to 679.97,Apple,101,Very Good - Refurbished,37.86,from United States,151,240,None
+76.79 to 112.70,Google,1,Open Box,27.81,from United States,40,31,None
+129.99,NEW,6,Pre-Owned,28.17,from United States,55,16,None
+259.85,Google,45,Pre-Owned,30.64,from United States,30,5,None
+365.57,Samsung,150,Good - Refurbished,50.86,from United Kingdom,123,5,None
+174.85,LG,226,Pre-Owned,29.03,from United States,15,6,None
+148.24,New,6,Brand New,44.22,from United Kingdom,30,9,None
+189.99,Google,89,Good - Refurbished,29.31,from United States,232,5,None
+149.85,Google,12,Pre-Owned,28.55,from United States,321,None,None
+72.78 to 78.78,New,11,Brand New,27.14,from United States,11,None,None
+206.52 to 223.80,New,128,Brand New,46.52,from United Kingdom,716,None,None
+296.99 to 306.89,Apple,2,Good - Refurbished,31.54,from United States,168,None,None
+315.99,Samsung,3,Brand New,31.71,from United States,282,None,None
+585.92 to 657.29,Apple,11,Good - Refurbished,57.57,from United Kingdom,37,None,None
+189.99,Google,5,Good - Refurbished,29.31,from United States,68,None,None
+312.99 to 375.59,Apple,7,Good - Refurbished,49.24,from United Kingdom,116,None,None
+65.69 to 70.19,2023,7,Brand New,26.99,from United States,26,None,None
+425.67 to 600.95,BRAND,1,Brand New,52.68,from United Kingdom,290,None,None
+164.95 to 329.95,Samsung,41,Open Box,21.38,from United States,18,None,None
+469.88 to 748.88,NEW,5,Brand New,34.63,from United States,18,None,None
+220,Refurbished,1072,Excellent - Refurbished,29.88,from United States,919,None,None
+199.99 to 259.99,Samsung,6,Open Box,29.69,from United States,254,None,None
+154,Samsung,22,Pre-Owned,28.63,from United States,47,None,None
+229.99,LG,9,Brand New,6,from China,44,None,None
+549.99,Apple,81,Pre-Owned,36.15,from United States,106,None,None
+638.52,NEW,2,Pre-Owned,Free,from United Kingdom,81,None,None
+494.53 to 688.59,Apple,11,Good - Refurbished,56.88,from United Kingdom,20,None,None
+143.97,New,142,Brand New,44.1,from United Kingdom,56,None,None
+99.95 to 234.95,Samsung,45,Open Box,20.05,from United States,33,None,None
+180,NEW,107,Parts Only,35.67,from United States,483,None,None
+322.99,Samsung,11,Good - Refurbished,31.84,from United States,92,None,None
+519.99 to 569.99,Apple,7,Open Box,36.15,from United States,160,None,None
+124.95 to 135.45,Samsung,1,Pre-Owned,28.28,from United States,47,None,None
+185.28,NEW,14,Brand New,45.35,from United Kingdom,572,None,None
+39,Unlocked,38,Pre-Owned,26.45,from United States,119,None,None
+114.99,CAT,7,Open Box,27.89,from United States,31,None,None
+378.98 to 468.98,Google,121,Open Box,32.92,from United States,80,None,None
+"999.99 to 1,199.99",APPLE,45,Open Box,44.7,from United States,172,None,None
+183.99,NEW,50,Brand New,29.2,from United States,315,None,None
+344.88,NEW,19,Brand New,32.26,from United States,442,None,None
+147.03 to 206.57,New,51,Brand New,44.18,from United Kingdom,6,None,None
+34.99,Lot,2,Parts Only,26.37,from United States,592,None,None
+"771.21 to 1,146.81",SAMSUNG,5,Brand New,63.23,from United Kingdom,38,None,None
+224.95 to 309.95,Samsung,2,Open Box,22.14,from United States,113,None,None
+35.1,Samsung,64,Pre-Owned,26.37,from United States,15,None,None
+197.99,Apple,142,Very Good - Refurbished,29.47,from United States,46,None,None
+175,Samsung,11,Pre-Owned,29.03,from United States,22,None,None
+464,Apple,24,Parts Only,34.52,from United States,24,None,None
+239.99 to 299.99,APPLE,124,Excellent - Refurbished,30.26,from United States,35,None,None
+89,Samsung,150,Brand New,27.4,from United States,50,None,None
+225,Factory,9,Pre-Owned,29.98,from United States,41,None,None
+217.00 to 390.00,Apple,1,Pre-Owned,29.83,from United States,88,None,None
+179.99,Google,61,Open Box,29.12,from United States,354,None,None
+209.99,Google,7,Good - Refurbished,29.69,from United States,"1,156",None,None
+79.19,i13,44,Brand New,27.21,from United States,117,None,None
+154.99 to 219.99,Apple,90,Pre-Owned,28.65,from United States,145,None,None
+39.95 to 69.95,Google,18,Pre-Owned,24.18,from United States,86,None,None
+35,Samsung,8,Pre-Owned,32.02,from United States,82,None,None
+79.95 to 94.95,Apple,90,Open Box,19.39,from United States,206,None,None
+94.95 to 149.95,Samsung,83,Open Box,28.08,from United States,102,None,None
+320.00 to 487.00,Apple,3,Excellent - Refurbished,31.78,from United States,113,None,None
+109.00 to 149.00,Samsung,2,Pre-Owned,28.06,from United States,617,None,None
+688.59 to 938.99,BRAND,7,Brand New,68.33,from United Kingdom,16,None,None
+114.85 to 249.85,Samsung,10,Open Box,20.34,from United States,579,None,None
+194.95 to 269.95,Samsung,334,Open Box,22.33,from United States,259,None,None
+219.99,Samsung,103,Pre-Owned,29.88,from United States,30,None,None
+74.99,Google,1,Pre-Owned,27.13,from United States,22,None,None
+209.99,Google,56,Excellent - Refurbished,29.69,from United States,255,None,None
+89.99,Google,83,Good - Refurbished,27.41,from United States,16,None,None
+469.00 to 569.00,Apple,6,Good - Refurbished,34.62,from United States,683,None,None
+209.95 to 259.95,Apple,2,Open Box,22.43,from United States,153,None,None
+199.99,Apple,334,Pre-Owned,29.5,from United States,121,None,None
+139.99,Google,5,Good - Refurbished,28.36,from United States,110,None,None
+71.00 to 145.00,Apple,104,Pre-Owned,28.46,from United States,105,None,None
+249.99,Samsung,47,Very Good - Refurbished,30.45,from United States,518,None,None
+131.99,Samsung,3,Brand New,28.21,from United States,227,None,None
+628,Xiaomi,137,Brand New,25,from United States,"1,244",None,None
+142.73 to 224.11,Apple,6,Very Good - Refurbished,44.06,from United Kingdom,984,None,None
+314.78 to 428.88,NEW,6,Brand New,31.69,from United States,57,None,None
+633.59,Apple,20,Very Good - Refurbished,37.74,from United States,157,None,None
+94.99,CAT,22,Excellent - Refurbished,27.51,from United States,281,None,None
+52.9,LG,4,Pre-Owned,26.71,from United States,28,None,None
+375.6,Apple,42,Parts Only,22.53,from Germany,31,None,None
+149.99 to 154.99,Samsung,17,Good - Refurbished,28.55,from United States,20,None,None
+159.85,Samsung,25,Pre-Owned,28.74,from United States,220,None,None
+191.00 to 260.00,Apple,1,Good - Refurbished,29.79,from United States,463,None,None
+93.89 to 302.97,Samsung,15,Brand New,44.47,from United Kingdom,68,None,None
+339.95,Samsung,7,Brand New,32.16,from United States,"1,424",None,None
+279.98 to 289.98,NEW!,47,Open Box,79.9,from United States,325,None,None
+22.99,Red,45,Brand New,1,from China,75,None,None
+605.97 to 681.09,Apple,2,Excellent - Refurbished,58.18,from United Kingdom,12,None,None
+199.98 to 291.19,Google,5,Pre-Owned,29.88,from United States,72,None,None
+250.4,NEW,90,Brand New,59.21,from United Kingdom,25,None,None
+180,Apple,104,Excellent - Refurbished,29.12,from United States,22,None,None
+198,Samsung,25,Very Good - Refurbished,29.47,from United States,53,None,None
+315,Samsung,97,Open Box,31.69,from United States,43,None,None
+87.99,Samsung,14,Pre-Owned,27.38,from United States,22,None,None
+214.00 to 389.00,Apple,1,Pre-Owned,29.77,from United States,88,None,None
+694.99 to 729.99,Apple,36,Open Box,39.57,from United States,114,None,None
+199.95,Google,5,Open Box,29.5,from United States,18,None,None
+59.99,Samsung,4,Pre-Owned,26.84,from United States,78,None,None
+185,Samsung,22,Pre-Owned,29.22,from United States,86,None,None
+252.99,Apple,2,Very Good - Refurbished,30.51,from United States,60,None,None
+331.77 to 651.03,Apple,1,Good - Refurbished,59.56,from United Kingdom,446,None,None
+289.99,Great,142,Pre-Owned,31.21,from United States,80,None,None
+72.95,LG,21,Open Box,45.43,from United States,None,None,None
+370,Apple,22,Pre-Owned,24.9,from United States,None,None,None
+212.78,New,82,Brand New,46.19,from United Kingdom,None,None,None
+299.99,Apple,174,Excellent - Refurbished,31.4,from United States,None,None,None
+139.99 to 229.99,Samsung,2,Pre-Owned,28.36,from United States,None,None,None
+319.99,Apple,85,Pre-Owned,31.78,from United States,None,None,None
+460.00 to 567.99,NEW,26,Brand New,36.5,from United States,None,None,None
+189.99 to 219.99,Apple,None,Pre-Owned,29.31,from United States,None,None,None
+105,Samsung,None,Good - Refurbished,27.7,from United States,None,None,None
+29.99 to 35.99,BLU,None,Pre-Owned,26.27,from United States,None,None,None
+67,BLU,None,Brand New,26.98,from United States,None,None,None
+319,Apple,None,Pre-Owned,31.77,from United States,None,None,None
+149.7,Unlocked,None,Pre-Owned,28.55,from United States,None,None,None
+299.00 to 399.00,Apple,None,Pre-Owned,31.39,from United States,None,None,None
+699.99,Apple,None,Brand New,39,from United States,None,None,None
+799.99 to 899.99,APPLE,None,Open Box,40.9,from United States,None,None,None
+207.89,Apple,None,Good - Refurbished,29.65,from United States,None,None,None
+250.39 to 338.03,BRAND,None,Brand New,47.34,from United Kingdom,None,None,None
+84.99,Google,None,Pre-Owned,27.32,from United States,None,None,None
+99.99 to 129.99,Samsung,None,Pre-Owned,28.17,from United States,None,None,None
+"889.99 to 1,189.99",Apple,None,Open Box,42.61,from United States,None,None,None
+210,Apple,None,Pre-Owned,39.68,from United States,None,None,None
+162.73,Samsung,None,Brand New,44.66,from United Kingdom,None,None,None
+26,Nokia,None,Open Box,Free,from China,None,None,None
+143.97,New,None,Brand New,44.1,from United Kingdom,None,None,None
+149.99,Apple,None,Open Box,28.55,from United States,None,None,None
+234.95 to 349.95,Samsung,None,Open Box,22.33,from United States,None,None,None
+32,Motorola,None,Pre-Owned,26.31,from United States,None,None,None
+248,Sansung,None,Brand New,Free,from China,None,None,None
+99.99,Samsung,None,Pre-Owned,27.6,from United States,None,None,None
+214.95 to 244.95,Samsung,None,Open Box,22.52,from United States,None,None,None
+98.00 to 389.00,Fully,None,Pre-Owned,6.99,from China,None,None,None
+77.99,TCL,None,Very Good - Refurbished,27.19,from United States,None,None,None
+360.99,Samsung,None,Brand New,32.56,from United States,None,None,None
+108.89,Apple,None,Very Good - Refurbished,27.77,from United States,None,None,None
+346.49,Apple,None,Very Good - Refurbished,32.29,from United States,None,None,None
+199.98 to 219.98,Apple,None,Pre-Owned,29.5,from United States,None,None,None
+259.99,Samsung,None,Good - Refurbished,30.64,from United States,None,None,None
+109.95,Xiaomi,None,Brand New,27.79,from United States,None,None,None
+119,Apple,None,Good - Refurbished,27.97,from United States,None,None,None
+191.99,Unlocked,None,Brand New,29.35,from United States,None,None,None
+179,Samsung,None,Good - Refurbished,29.11,from United States,None,None,None
+599.99,Apple,None,Open Box,37.1,from United States,None,None,None
+68.84,2023,None,Brand New,27.01,from United States,None,None,None
+235,Factory,None,Pre-Owned,30.17,from United States,None,None,None
+9.49 to 11.39,For,None,Brand New,18.06,from United States,None,None,None
+204.99,Google,None,Very Good - Refurbished,29.6,from United States,None,None,None
+29.99 to 32.99,MaxWest,None,Pre-Owned,26.27,from United States,None,None,None
+74.99,NEW,None,Brand New,27.13,from United States,None,None,None
+81,Samsung,None,Pre-Owned,27.24,from United States,None,None,None
+74.15,OnePlus,None,Brand New,27.11,from United States,None,None,None
+82.99,Original,None,Brand New,7,from China,None,None,None
+199,Tecno,None,Brand New,9,from India,None,None,None
+208,Samsung,None,Pre-Owned,29.66,from United States,None,None,None
+299.99,OnePlus,None,Brand New,31.4,from United States,None,None,None
+243,Samsung,None,Very Good - Refurbished,30.32,from United States,None,None,None
+175,Samsung,None,Pre-Owned,29.03,from United States,None,None,None
+104.99,Google,None,Good - Refurbished,27.7,from United States,None,None,None
+39,VERIZON,None,Brand New,26.45,from United States,None,None,None
+379.99,Apple,None,Open Box,32.92,from United States,None,None,None
+139,Google,None,Good - Refurbished,28.35,from United States,None,None,None
+20.8,K07,None,Brand New,Free,from China,None,None,None
+148.98 to 207.82,Samsung,None,Brand New,44.25,from United Kingdom,None,None,None
+219.99,Realme,None,Brand New,29.88,from United States,None,None,None
+109.99,Motorola,None,Brand New,27.79,from United States,None,None,None
+119.99,Samsung,None,Pre-Owned,27.98,from United States,None,None,None
+269.99,APPLE,None,Open Box,30.83,from United States,None,None,None
+315.99 to 365.99,NEW,None,Brand New,32.66,from United States,None,None,None
+130.00 to 165.00,Apple,None,Pre-Owned,28.35,from United States,None,None,None
+338.00 to 468.00,Samsung,None,Very Good - Refurbished,32.58,from United States,None,None,None
+159.88,LG,None,Brand New,28.74,from United States,None,None,None
+69.65 to 73.57,2023,None,Brand New,27.03,from United States,None,None,None
+266.99 to 332.99,Xiaomi,None,Brand New,1,from China,None,None,None
+114.95 to 134.95,Apple,None,Very Good - Refurbished,20.43,from United States,None,None,None
+269.99,Google,None,Pre-Owned,30.83,from United States,None,None,None
+359.92,Samsung,None,Brand New,50.68,from United Kingdom,None,None,None
+113.61 to 166.27,Samsung,None,Pre-Owned,28.17,from United States,None,None,None
+7.5,Shockproof,None,Brand New,6.26,from United Kingdom,None,None,None
+119.55,Kyocera,None,Open Box,27.98,from United States,None,None,None
+115.99 to 153.99,BlackBerry,None,Brand New,1,from China,None,None,None
+74.99,CAT,None,Open Box,27.13,from United States,None,None,None
+164.99 to 174.99,Samsung,None,Good - Refurbished,29.03,from United States,None,None,None
+99.99,iPhone,None,Pre-Owned,27.6,from United States,None,None,None
+27,Motorola,None,Pre-Owned,26.22,from United States,None,None,None
+201.00 to 366.00,Apple,None,Pre-Owned,29.52,from United States,None,None,None
+609.99,New,None,Brand New,37.29,from United States,None,None,None
+46,Apple,None,Pre-Owned,26.58,from United States,None,None,None
+189.99,Rooted,None,Pre-Owned,29.31,from United States,None,None,None
+379.99 to 529.99,APPLE,None,Very Good - Refurbished,33.87,from United States,None,None,None
+69.95 to 134.95,Samsung,None,Pre-Owned,28.27,from United States,None,None,None
+132.99,LG,38,Open Box,28.23,from United States,80,23,Customs services and international tracking provided
+69.95 to 134.95,Samsung,26,Pre-Owned,28.27,from United States,6,7,Customs services and international tracking provided
+417.77,Apple,1,Pre-Owned,33.64,from United States,174,6,Customs services and international tracking provided
+180,NEW,45,Pre-Owned,29.12,from United States,245,34,Customs services and international tracking provided
+107,LG,13,Parts Only,27.74,from United States,236,35,Customs services and international tracking provided
+78,i14,88,Brand New,27.19,from United States,196,5,Customs services and international tracking provided
+266,LG,26,Brand New,Free,from China,64,25,Customs services and international tracking provided
+329.97 to 429.97,Apple,27,Good - Refurbished,31.97,from United States,180,111,Customs services and international tracking provided
+179.99,Google,2,Very Good - Refurbished,29.12,from United States,"1,298",21,Customs services and international tracking provided
+314.99,Apple,20,Open Box,31.69,from United States,637,45,Customs services and international tracking provided
+369.99,NEW,22,Brand New,32.73,from United States,111,82,Customs services and international tracking provided
+129.99 to 139.99,Apple,142,Open Box,28.36,from United States,18,5,Customs services and international tracking provided
+629,Iridium,1,Pre-Owned,101.17,from United States,112,31,Customs services and international tracking provided
+198.98,Vintage,13,Open Box,29.48,from United States,106,21,Customs services and international tracking provided
+257.4,Samsung,8,Good - Refurbished,30.59,from United States,99,8,Customs services and international tracking provided
+99.99 to 199.99,Apple,7,Pre-Owned,29.41,from United States,17,22,Customs services and international tracking provided
+14.99,BlackBerry,46,Pre-Owned,18.15,from United States,53,18,Customs services and international tracking provided
+180,LG,26,Brand New,Free,from China,194,140,Customs services and international tracking provided
+397.99,Samsung,27,Open Box,33.27,from United States,185,35,Customs services and international tracking provided
+300.47 to 338.03,Samsung,334,Brand New,48.87,from United Kingdom,26,7,Customs services and international tracking provided
+169.95,Xiaomi,2,Brand New,28.93,from United States,197,26,Customs services and international tracking provided
+200.00 to 363.00,Apple,142,Pre-Owned,29.5,from United States,66,35,Customs services and international tracking provided
+309.00 to 419.00,Apple,7,Very Good - Refurbished,31.58,from United States,41,5,Customs services and international tracking provided
+144.97,Apple,3,Excellent - Refurbished,44.12,from United Kingdom,21,5,Customs services and international tracking provided
+249.99,Google,9,Open Box,30.45,from United States,49,27,None
+33,NEW,38,Pre-Owned,26.33,from United States,10,14,None
+246.08 to 294.21,Apple,119,Excellent - Refurbished,47.2,from United Kingdom,37,12,None
+129.99,REVVL,32,Open Box,28.17,from United States,18,52,None
+132.52,TCL20,8,Pre-Owned,20.93,from Canada,19,14,None
+290.4,Samsung,5,Open Box,31.22,from United States,98,37,None
+149.99,Samsung,1,Pre-Owned,28.55,from United States,135,50,None
+411.38,Apple,54,Very Good - Refurbished,33.52,from United States,44,9,None
+139.99,NEW,37,Brand New,28.36,from United States,12,3,None
+34.23 to 35.53,UNIWA,4,Brand New,Free,from China,"1,295",11,None
+403.00 to 521.00,Apple,17,Pre-Owned,33.36,from United States,27,37,None
+385,Google,91,Open Box,33.02,from United States,16,11,None
+232.87,NEW,99,Pre-Owned,16.1,from France,722,58,None
+21,Galaxy,176,Pre-Owned,26.1,from United States,12,59,None
+219,Samsung,1,Open Box,29.87,from United States,477,30,None
+119.99,NEW,9,Brand New,27.98,from United States,31,73,None
+129.99,Xiaomi,650,Brand New,28.17,from United States,20,23,None
+199,Samsung,1,Open Box,29.49,from United States,142,28,None
+179.99,New!,51,Open Box,21.29,from United States,84,11,None
+115,VERIZON,34,Open Box,27.89,from United States,59,18,None
+31.99,ITELCO,4,Brand New,74.8,from United States,33,12,None
+613.79 to 623.69,Apple,1,Excellent - Refurbished,37.37,from United States,127,23,None
+314.00 to 398.00,Apple,174,Excellent - Refurbished,31.86,from United States,396,9,None
+79.99,Google,1,Pre-Owned,27.22,from United States,51,37,None
+159.99,NEW,90,Pre-Owned,28.74,from United States,34,50,None
+239.99,Apple,12,Pre-Owned,30.26,from United States,20,26,None
+44,Blu,117,Brand New,26.54,from United States,17,32,None
+373.00 to 480.00,Apple,23,Excellent - Refurbished,33.93,from United States,72,40,None
+250.39,OPPO,154,Pre-Owned,37.55,from United Kingdom,8,12,None
+98.81,New,509,Brand New,27.58,from United States,47,26,None
+174.49,Samsung,7,Pre-Owned,29.02,from United States,195,18,None
+118.26 to 142.99,Samsung,2,Pre-Owned,28.42,from United States,153,11,None
+54.00 to 83.00,100%,29,Open Box,Free,from Hong Kong,268,10,None
+31,Apple,3,Pre-Owned,26.29,from United States,33,8,None
+49,LG,86,Brand New,26.64,from United States,20,70,None
+199.99,Samsung,18,Brand New,29.5,from United States,88,20,None
+299.00 to 437.00,Apple,103,Good - Refurbished,31.52,from United States,52,22,None
+799.99 to 899.99,APPLE,7,Excellent - Refurbished,33.07,from United States,149,21,None
+53,Samsung,3,Pre-Owned,26.71,from United States,51,143,None
+562.15 to 699.87,Google,1,Brand New,56.84,from United Kingdom,108,33,None
+404.99,Apple,17,Pre-Owned,33.4,from United States,14,None,None
+189,Samsung,2,Excellent - Refurbished,29.3,from United States,143,None,None
+120,Samsung,176,Parts Only,27.98,from United States,96,None,None
+54.99,NEW,37,Pre-Owned,32.35,from United States,50,None,None
+554.78 to 668.88,NEW,7,Brand New,36.25,from United States,146,None,None
+15.65,Nokia,11,Brand New,40.18,from United Kingdom,69,None,None
+768.95 to 868.95,APPLE,10,Brand New,40.31,from United States,99,None,None
+350.55 to 588.43,New,10,Brand New,50.39,from United Kingdom,89,None,None
+55.88 to 151.00,Apple,1,Pre-Owned,45.11,from United States,115,None,None
+1,NEW,1,Parts Only,25.72,from United States,261,None,None
+79.8,Motorola,3,Pre-Owned,27.22,from United States,33,None,None
+74.99,Google,363,Pre-Owned,27.13,from United States,19,None,None
+416.92,Microsoft,2,Brand New,56.28,from United Kingdom,42,None,None
+279,Samsung,6,Open Box,31.01,from United States,499,None,None
+375.59,Apple,7,Good - Refurbished,51.16,from United Kingdom,31,None,None
+79.9,Motorola,4,Pre-Owned,27.22,from United States,9,None,None
+34.5,Apple,35,Pre-Owned,18.52,from United States,69,None,None
+378,Samsung,3,Very Good - Refurbished,32.89,from United States,25,None,None
+232.87,NEW,10,Pre-Owned,16.1,from France,12,None,None
+184.6,Motorola,9,Pre-Owned,29.21,from United States,38,None,None
+"830.00 to 1,685.49",SAMSUNG,12,Brand New,18.49,from South Korea,107,None,None
+132.00 to 161.00,Apple,3,Good - Refurbished,28.21,from United States,96,None,None
+72.19 to 90.24,Unlocked,25,Brand New,Free,from China,14,None,None
+93.00 to 148.00,Apple,54,Pre-Owned,27.55,from United States,55,None,None
+92,LG,69,Pre-Owned,Free,from China,17,None,None
+359.92,Samsung,164,Brand New,50.68,from United Kingdom,24,None,None
+679.99,ThinkPhone,3,Brand New,38.62,from United States,160,None,None
+140.21,SAMSUNG,2,Brand New,43.98,from United Kingdom,33,None,None
+205.00 to 374.00,Apple,6,Pre-Owned,29.6,from United States,15,None,None
+240.39,NEW,117,Pre-Owned,16.1,from France,14,None,None
+"1,370.79 to 2,019.49",Apple,81,Brand New,18.49,from South Korea,71,None,None
+239.99,Google,95,Good - Refurbished,30.26,from United States,41,None,None
+224.99,Samsung,7,Good - Refurbished,29.98,from United States,198,None,None
+265.00 to 349.00,Huawei,1,Open Box,Free,from China,21,None,None
+125.09 to 128.69,Apple,70,Good - Refurbished,28.08,from United States,19,None,None
+609.99 to 709.99,Apple,64,Pre-Owned,37.29,from United States,62,None,None
+159,Google,8,Very Good - Refurbished,28.73,from United States,152,None,None
+89.99,Samsung,159,Pre-Owned,27.41,from United States,138,None,None
+470,Apple,270,Parts Only,34.63,from United States,18,None,None
+326.69,Apple,3,Good - Refurbished,31.91,from United States,87,None,None
+29.99,SKY,30,Brand New,26.27,from United States,34,None,None
+59.5,Samsung,373,Pre-Owned,26.83,from United States,96,None,None
+699.98,NEW!,26,Open Box,79.9,from United States,7,None,None
+47.93,Blackberry,344,Brand New,59.55,from United States,294,None,None
+148.00 to 195.00,Apple,9,Pre-Owned,29.41,from United States,111,None,None
+199.99,Samsung,1,Brand New,29.5,from United States,12,None,None
+199.99 to 235.99,Google,7,Pre-Owned,29.5,from United States,31,None,None
+23.5,NEW,85,Pre-Owned,26.15,from United States,"1,080",None,None
+99,NEW,174,Pre-Owned,40.93,from United States,23,None,None
+300,OEM,97,Open Box,28.92,from United States,None,None,None
+169,HTC,7,Good - Refurbished,43.78,from United Kingdom,None,None,None
+7.5,SIM,47,Brand New,49.24,from United Kingdom,None,None,None
+312.94,T-Mobile,3,Pre-Owned,27.13,from United States,None,None,None
+74.95,Unlocked,2,Pre-Owned,34.22,from United States,None,None,None
+27,Google,6,Brand New,28.44,from United States,None,None,None
+144.24,Apple,8,Very Good - Refurbished,28.53,from United States,None,None,None
+148.49,Apple,13,Pre-Owned,30.93,from United States,None,None,None
+249.99 to 274.99,Mini-Smartphone,34,Brand New,Free,from China,None,None,None
+49.9,Motorola,117,Pre-Owned,Free,from China,None,None,None
+34.5,Google,11,Brand New,39.78,from United States,None,None,None
+238,BranD,154,Brand New,40.73,from United Kingdom,None,None,None
+33.79,New,7,Brand New,27.51,from United States,None,None,None
+94.99,Google,1,Pre-Owned,28.27,from United States,None,None,None
+89.99 to 165.10,Apple,267,Good - Refurbished,32.34,from United States,None,None,None
+349,Motorola,159,Very Good - Refurbished,27.89,from United States,None,None,None
+114.99,NEW,27,Pre-Owned,29.84,from United States,None,None,None
+217.5,Google,315,Excellent - Refurbished,37.1,from United States,None,None,None
+599.99,NOKIA,56,Brand New,40.31,from United Kingdom,None,None,None
+20.02,Apple,37,Very Good - Refurbished,36.8,from United States,None,None,None
+584.09,É??Samsung,9,Open Box,26.56,from United States,None,None,None
+44.99,Google,149,Very Good - Refurbished,27.34,from United States,None,None,None
+85.99 to 89.99,Samsung,23,Good - Refurbished,50.86,from United Kingdom,None,None,None
+365.57,Apple,2,Very Good - Refurbished,28.92,from United States,None,None,None
+169,Apple,19,Pre-Owned,33.11,from United States,None,None,None
+339.99 to 499.99,Samsung,4,Brand New,28.48,from United States,None,None,None
+145.99,Samsung,31,Good - Refurbished,27.79,from United States,None,None,None
+109.99,Nubia,14,Parts Only,46.9,from United States,None,None,None
+149.99,Apple,None,Very Good - Refurbished,36.24,from United States,None,None,None
+554.39,Apple,None,Pre-Owned,32.54,from United States,None,None,None
+360,Samsung,None,Brand New,45.39,from United Kingdom,None,None,None
+186.49 to 209.02,Apple,None,Good - Refurbished,31.84,from United States,None,None,None
+274.00 to 333.00,Apple,None,Pre-Owned,27.98,from United States,None,None,None
+109.95 to 119.89,LG,None,Pre-Owned,27.5,from United States,None,None,None
+94.7,Google,None,Good - Refurbished,32.54,from United Kingdom,None,None,None
+131.45,Blackberry,None,Brand New,Free,from China,None,None,None
+486,Samsung,None,Brand New,30.83,from United States,None,None,None
+269.95,SAMSUNG,None,Brand New,21.46,from Germany,None,None,None
+482.91,Google,None,Pre-Owned,30.25,from United States,None,None,None
+229.00 to 322.89,Apple,None,Very Good - Refurbished,22.62,from United States,None,None,None
+249.9,Samsung,None,Open Box,28.1,from United States,None,None,None
+108.99 to 125.99,New,None,Brand New,31.77,from United States,None,None,None
+319,Apple,None,Excellent - Refurbished,31.77,from United States,None,None,None
+319.00 to 354.00,Nokia,None,Brand New,41.42,from United Kingdom,None,None,None
+56.28,LG,None,Brand New,31.19,from United States,None,None,None
+288.5,NEW,None,Brand New,29.31,from United States,None,None,None
+189.99,Samsung,None,Pre-Owned,32.41,from United States,None,None,None
+352.99,Motorola,None,Brand New,29.12,from United States,None,None,None
+179.95,C,None,Pre-Owned,27.41,from United States,None,None,None
+89.95,Apple,None,Parts Only,36.53,from United States,None,None,None
+9.1,Samsung,None,Pre-Owned,26.84,from United States,None,None,None
+17,Samsung,None,Open Box,29.69,from United States,None,None,None
+59.95,???Ò,None,Pre-Owned,7.5,from China,None,None,None
+209.99,Samsung,None,Pre-Owned,28.46,from United States,None,None,None
+29.00 to 45.00,Samsung,None,Pre-Owned,28.55,from United States,None,None,None
+144.95,Samsung,None,Open Box,29.31,from United States,None,None,None
+149.95,Apple,None,Open Box,Free,from China,None,None,None
+189.99,New,None,Open Box,37.1,from United States,None,None,None
+58,Apple,None,Very Good - Refurbished,31.35,from United States,None,None,None
+599.8,Apple,None,Open Box,28.33,from United States,None,None,None
+296.99,Apple,None,Very Good - Refurbished,33.04,from United States,None,None,None
+137.99,Unihertz,None,Brand New,66.22,from United Kingdom,None,None,None
+386.09,NEW,None,Pre-Owned,27.71,from United States,None,None,None
+375.54,Apple,None,Very Good - Refurbished,32.6,from United States,None,None,None
+105.5,LG,None,Brand New,Free,from China,None,None,None
+362.99,RED,None,Brand New,31.39,from United States,None,None,None
+299.95,"NEW,",None,Brand New,31.4,from United States,None,None,None
+299,OnePlus,None,Brand New,34.25,from United States,None,None,None
+299.99,Palm,None,Excellent - Refurbished,27.98,from United States,None,None,None
+449.99,Apple,None,Good - Refurbished,36.14,from United States,None,None,None
+119.99,Apple,None,Very Good - Refurbished,35.11,from United States,None,None,None
+536.00 to 549.00,NEW,None,Pre-Owned,26.04,from United States,None,None,None
+494.99,Moto,None,Brand New,38,from United States,None,None,None
+17.5,Nokia,None,Pre-Owned,Free,from China,None,None,None
+647,LG,None,Open Box,6,from China,None,None,None
+15.99,Samsung,None,Pre-Owned,28.55,from United States,None,None,None
+74.99,BlackBerry,None,Pre-Owned,26.18,from United States,None,None,None
+149.95,Apple,None,Brand New,16.39,from Australia,None,None,None
+24.99,Apple,None,Pre-Owned,29.5,from United States,None,None,None
+491.74,New,None,Brand New,45.66,from United Kingdom,None,None,None
+199.99 to 349.99,Samsung,None,Very Good - Refurbished,43.9,from United Kingdom,None,None,None
+173.97 to 195.25,Samsung,None,Pre-Owned,27.41,from United States,None,None,None
+137.66,Lot,None,Pre-Owned,37.54,from United States,None,None,None
+89.99,Google,None,Excellent - Refurbished,30.49,from United States,None,None,None
+4.37,Case,None,Brand New,39.89,from United Kingdom,None,None,None
+247.49 to 251.99,Samsung,None,Brand New,32.54,from United States,None,None,None
+5.00 to 6.25,Samsung,None,Pre-Owned,31.58,from United States,None,None,None
+359.99 to 389.99,Cute,None,Brand New,10,from Israel,None,None,None
+309.00 to 369.00,Open,None,Open Box,30.26,from United States,None,None,None
+29.9,É??Samsung,None,Open Box,26.84,from United States,None,None,None
+239.95,NEW,None,Brand New,49.2,from United Kingdom,None,None,None
+59.99,NEW,None,Open Box,28.17,from United States,None,None,None
+311.75,Apple,None,Open Box,29.12,from United States,None,None,None
+129.99,Samsung,None,Good - Refurbished,32.24,from United States,None,None,None
+174.89 to 179.98,Apple,None,Pre-Owned,29.11,from United States,None,None,None
+344.00 to 388.00,Apple,None,Parts Only,80,from United States,None,None,None
+179.00 to 265.00,Apple,None,Parts Only,42.25,from United States,None,None,None
+61,Apple,None,Pre-Owned,29.68,from United States,None,None,None
+50,CHECK,None,Brand New,Free,from Spain,None,None,None
+85,Samsung,None,Open Box,33.41,from United States,None,None,None
+209.00 to 377.00,OnePlus,None,Open Box,28.93,from United States,None,None,None
+1.29,Apple,None,Pre-Owned,35.57,from United States,None,None,None
+405.59,AT&T,None,Parts Only,0.01,from Maldives,None,None,None
+149.99 to 179.99,Samsung,None,Brand New,Free,from China,None,None,None
+98.79,Samsung,None,Pre-Owned,27.38,from United States,None,None,None
+8.5,Apple,None,Excellent - Refurbished,28,from United States,None,None,None
+209,Unlocked,None,Pre-Owned,28.93,from United States,None,None,None
+87.99,Apple,None,Good - Refurbished,31.71,from United States,None,None,None
+120.59,BRAND,None,Brand New,49.63,from United Kingdom,None,None,None
+169.8,Apple,None,Excellent - Refurbished,33.84,from United States,None,None,None
+316.00 to 404.00,Samsung,None,Brand New,28.55,from United States,None,None,None
+325.51,UMIDIGI,None,Brand New,26.9,from United States,None,None,None
+428.00 to 534.00,Apple,None,Parts Only,36.08,from United States,None,None,None
+149.95,Samsung,None,Excellent - Refurbished,40.24,from United Kingdom,None,None,None
+62.99,Apple,None,Pre-Owned,35.04,from United Kingdom,None,None,None
+125,NEW,None,Pre-Owned,29.03,from United States,None,None,None
+17.47,Xiaomi,None,Brand New,28.67,from United States,None,None,None
+37.55,OPEN,None,Open Box,30.26,from United States,None,None,None
+175,Siemens,None,Brand New,64.65,from United States,None,None,None
+155.99,Motorola,None,Open Box,28.55,from United States,None,None,None
+239.99,LG,None,Pre-Owned,27.6,from United States,None,None,None
+39.99,Sony,None,Parts Only,61.78,from United States,None,None,None
+149.99,Original,None,Open Box,11,from China,None,None,None
+99.8,Samsung,None,Parts Only,27.7,from United States,None,None,None
+170,Full,None,Brand New,6.26,from United Kingdom,None,None,None
+22.99,Samsung,None,Pre-Owned,29.5,from United States,None,None,None
+105,Apple,None,Pre-Owned,29.12,from United States,None,None,None
+174.84 to 229.84,Samsung,98,Open Box,21.19,from United States,20,42,Customs services and international tracking provided
+114.99,Motorola,10,Open Box,27.89,from United States,245,3,Customs services and international tracking provided
+314.98 to 394.98,Apple,21,Very Good - Refurbished,24.14,from United States,11,25,Customs services and international tracking provided
+245.99,NEW,184,Brand New,30.38,from United States,31,4,Customs services and international tracking provided
+3.74 to 7.50,Full,87,Brand New,6.26,from United Kingdom,13,16,Customs services and international tracking provided
+6.25 to 10.00,Gorilla,27,Brand New,6.26,from United Kingdom,11,12,Customs services and international tracking provided
+34,NEW,13,Pre-Owned,26.35,from United States,201,28,Customs services and international tracking provided
+15.88,L8,56,Brand New,Free,from China,203,7,Customs services and international tracking provided
+25.03,Zanco,6,Brand New,40.46,from United Kingdom,70,13,Customs services and international tracking provided
+149.99,Motorola,15,Open Box,28.55,from United States,34,32,Customs services and international tracking provided
+400.63,New,38,Brand New,51.92,from United Kingdom,141,42,Customs services and international tracking provided
+319,Samsung,37,Open Box,31.77,from United States,29,19,Customs services and international tracking provided
+219.99,Apple,6,Pre-Owned,29.88,from United States,12,6,Customs services and international tracking provided
+119.99,LG,12,Open Box,27.98,from United States,25,49,Customs services and international tracking provided
+259,Samsung,45,Open Box,30.63,from United States,91,7,Customs services and international tracking provided
+239,Samsung,32,Open Box,30.25,from United States,93,9,Customs services and international tracking provided
+92.64,New,116,Brand New,42.53,from United Kingdom,8,13,Customs services and international tracking provided
+209.99,NEW,137,Brand New,48.04,from United States,208,46,Customs services and international tracking provided
+338.95 to 396.95,Apple,97,Open Box,32.14,from United States,270,13,Customs services and international tracking provided
+219.09,Huawei,26,Very Good - Refurbished,46.39,from United Kingdom,"2,207",16,Customs services and international tracking provided
+67.62,(Green-UK),88,Brand New,1.24,from China,"1,320",10,None
+165,OnePlus,159,Pre-Owned,28.84,from United States,21,12,None
+29.91,Samsung,174,New (Other),12.52,from United Kingdom,36,12,None
+145.99,Samsung,47,Brand New,28.48,from United States,20,16,None
+139.99,Apple,27,Pre-Owned,28.36,from United States,9,50,None
+124.99,Samsung,11,Excellent - Refurbished,28.08,from United States,29,4,None
+129.99,Apple,15,Pre-Owned,28.17,from United States,280,17,None
+219,Samsung,19,Very Good - Refurbished,29.87,from United States,"1,385",10,None
+155,Google,90,Very Good - Refurbished,28.65,from United States,91,9,None
+69.99 to 119.99,Samsung,150,Pre-Owned,27.98,from United States,571,9,None
+206.27,Samsung,97,Brand New,45.99,from United Kingdom,14,100,None
+395.19,Apple,33,Excellent - Refurbished,33.21,from United States,34,33,None
+10.5,Apple,2,Pre-Owned,25.9,from United States,30,59,None
+206.99,Samsung,4,Brand New,29.64,from United States,16,5,None
+189.99,Samsung,24,Open Box,29.31,from United States,280,20,None
+12.5,NEW,19,Parts Only,25.94,from United States,55,24,None
+85,NEW,137,Pre-Owned,39.77,from United States,15,4,None
+69.99,Samsung,184,Pre-Owned,27.03,from United States,43,28,None
+169,Samsung,2,Pre-Owned,28.92,from United States,60,55,None
+63.75,Samsung,1,Pre-Owned,26.92,from United States,21,20,None
+4.37,Genuine,13,Brand New,39.84,from United Kingdom,102,3,None
+137.71,Sony,8,Pre-Owned,37.55,from United Kingdom,174,5,None
+582.17,Apple,23,Good - Refurbished,32.54,from United Kingdom,49,33,None
+199.99,Samsung,117,Pre-Owned,29.5,from United States,34,5,None
+7.5,Case,49,Brand New,6.26,from United Kingdom,110,17,None
+228.99,New,14,Brand New,1,from China,33,55,None
+34.09,Motorola,16,Pre-Owned,Free,from China,10,67,None
+275.88,NEW,17,Brand New,30.95,from United States,211,18,None
+79.99,Apple,760,Open Box,27.22,from United States,119,10,None
+5.00 to 8.75,Flip,47,Brand New,6.26,from United Kingdom,130,15,None
+134.99,Google,1,Good - Refurbished,28.27,from United States,341,17,None
+99.99,Apple,21,Pre-Owned,Free,from China,132,29,None
+220,Apple,2,Parts Only,29.88,from United States,14,36,None
+29.45,Apple,23,Pre-Owned,18.43,from United States,416,6,None
+84.99,New,30,Brand New,27.32,from United States,65,8,None
+127.00 to 142.00,Apple,37,Pre-Owned,28.4,from United States,87,12,None
+179.99,Rooted,101,Pre-Owned,29.12,from United States,379,25,None
+144.99 to 154.99,Google,19,Pre-Owned,28.65,from United States,29,8,None
+259,Samsung,195,Open Box,30.63,from United States,88,11,None
+255,Samsung,760,Open Box,30.55,from United States,64,109,None
+199.99,Samsung,6,Pre-Owned,29.5,from United States,195,16,None
+164.99,Unlocked,8,Open Box,Shipping,from United States,18,8,None
+53.7,(UK),15,Brand New,1.24,from China,98,10,None
+985.99,Samsung,65,Brand New,44.44,from United States,104,18,None
+67,Sony,286,Open Box,Free,from China,52,4,None
+159.99,LG,45,Open Box,28.74,from United States,8,None,None
+135,Sonim,2,Open Box,36.27,from United States,734,None,None
+229.00 to 259.00,Xiaomi,1,Pre-Owned,Free,from China,55,None,None
+429.95,Open,69,Open Box,33.87,from United States,48,None,None
+318.00 to 344.00,Samsung,18,Good - Refurbished,31.75,from United States,260,None,None
+299,NEW,2,Brand New,43.84,from United States,148,None,None
+105,Apple,9,Pre-Owned,33.4,from United States,6,None,None
+124.85 to 229.85,Samsung,3,Good - Refurbished,21,from United States,10,None,None
+55.25,TCL,23,Pre-Owned,26.75,from United States,27,None,None
+413.15 to 588.43,BRAND,1,Brand New,52.3,from United Kingdom,49,None,None
+35,Samsung,343,Pre-Owned,24.18,from United States,328,None,None
+139.99,Samsung,53,Open Box,28.36,from United States,701,None,None
+79.95,New,7,Brand New,27.22,from United States,34,None,None
+319.99,Apple,8,Pre-Owned,31.78,from United States,111,None,None
+336.79,Samsung,2,Excellent - Refurbished,49.97,from United Kingdom,76,None,None
+355,Samsung,11,Very Good - Refurbished,32.45,from United States,20,None,None
+678.95 to 758.95,SAMSUNG,28,Brand New,40.12,from United States,97,None,None
+275,FULLY,11,Open Box,30.93,from United States,69,None,None
+64.38,Nokia,24,New (Other),7.51,from Germany,443,None,None
+"1,126.79",Samsung,1,Brand New,74.07,from United Kingdom,7,None,None
+549,Open,184,Open Box,Free,from China,48,None,None
+89.99,Samsung,11,Pre-Owned,27.41,from United States,243,None,None
+75,Samsung,97,Pre-Owned,27.13,from United States,87,None,None
+237.93,Mudita,8,Open Box,30.23,from United States,108,None,None
+36.99,Motorola,59,Parts Only,26.41,from United States,65,None,None
+359.49,NEW,38,Brand New,32.53,from United States,316,None,None
+189.95,In-Box,12,Open Box,29.31,from United States,"1,850",None,None
+19.99 to 23.99,AT&T,2,Pre-Owned,26.08,from United States,114,None,None
+65,SAMSUNG,83,Open Box,26.94,from United States,235,None,None
+249.99,Samsung,53,Pre-Owned,30.45,from United States,777,None,None
+375.54,Samsung,41,Brand New,51.16,from United Kingdom,30,None,None
+5.00 to 7.50,CARBON,39,Brand New,39.93,from United Kingdom,30,None,None
+269.99,Google,6,Good - Refurbished,30.83,from United States,7,None,None
+58,Sony,189,Open Box,Free,from China,153,None,None
+281.69,Samsung,19,Good - Refurbished,32.54,from United Kingdom,44,None,None
+19.1,Samsung,679,Parts Only,41.67,from United States,59,None,None
+40,Samsung,142,Open Box,31.75,from United States,46,None,None
+318,Big,137,Pre-Owned,Free,from China,402,None,None
+209.00 to 365.00,OnePlus,49,Pre-Owned,28.17,from United States,73,None,None
+130,Google,10,Open Box,19.77,from United States,32,None,None
+99.94,Google,7,Very Good - Refurbished,32.54,from United Kingdom,140,None,None
+150.23,Motorola,266,Brand New,27.6,from United States,17,None,None
+99.99,Tecno,53,Brand New,9,from India,61,None,None
+209.9,T-Mobile,12,Pre-Owned,27.41,from United States,60,None,None
+89.9,iPhone,32,Open Box,31.77,from United States,None,None,None
+319,New&Sealed,14,Brand New,Free,from China,None,None,None
+168.8,Sony,8,Pre-Owned,Free,from China,None,None,None
+49,Nokia,36,Good - Refurbished,27.41,from United States,None,None,None
+89.99,????????NEW,82,Brand New,34.06,from United States,None,None,None
+439.99,Motorola,150,Open Box,29.31,from United States,None,None,None
+190,Google,19,Pre-Owned,27.15,from United States,None,None,None
+69.69 to 99.99,NEW,6,Pre-Owned,36.47,from United States,None,None,None
+19,L8star,100,Brand New,2.15,from France,None,None,None
+19.84,UNLOCKED,176,Pre-Owned,33.37,from United States,None,None,None
+37.7,MHOUSE,344,Brand New,5.2,from France,None,None,None
+49.9,NEW,124,Brand New,35.65,from United States,None,None,None
+17.39,Samsung,18,Pre-Owned,27.13,from United States,None,None,None
+109,Samsung,2,Open Box,22.33,from United States,None,None,None
+74.99,Apple,37,Excellent - Refurbished,49.82,from United Kingdom,None,None,None
+234.95,OnePlus,49,Brand New,33.11,from United States,None,None,None
+257.66 to 331.69,Samsung,3,Open Box,31.96,from United States,None,None,None
+389.99,OnePlus,5,Pre-Owned,29.18,from United States,None,None,None
+329,Nokia,34,Open Box,Free,from China,None,None,None
+182.99,Apple,14,Pre-Owned,Free,from China,None,None,None
+30,Samsung,2,Very Good - Refurbished,28.93,from United States,None,None,None
+40,Apple,88,Very Good - Refurbished,31.9,from United States,None,None,None
+169.99,Google,2,Pre-Owned,27.98,from United States,None,None,None
+325.99,Google,27,Very Good - Refurbished,31.21,from United States,None,None,None
+120,NEW,4,Parts Only,25.73,from United States,None,None,None
+289.99,Samsung,157,Good - Refurbished,53.06,from United Kingdom,None,None,None
+1.25,Google,3,Good - Refurbished,27.41,from United States,None,None,None
+438.19,Apple,98,Very Good - Refurbished,42.45,from United States,None,None,None
+90,NEW,25,Brand New,28.65,from United States,None,None,None
+881.09,Unlocked,18,Pre-Owned,28.17,from United States,None,None,None
+154.99,Open,60,Open Box,27.03,from United States,None,None,None
+129.99,Tempered,3,Brand New,39.81,from United Kingdom,None,None,None
+69.99,Nokia,82,Brand New,7.51,from Germany,None,None,None
+1.24 to 3.74,Microsoft,86,Brand New,40.44,from United States,None,None,None
+32.18,Apple,139,Pre-Owned,33.49,from United States,None,None,None
+249.99,NEW,20,Open Box,27.41,from United States,None,None,None
+409.99,Samsung,4,Pre-Owned,30.26,from United States,None,None,None
+89.99,Nokia,1,Open Box,Free,from China,None,None,None
+239.99,Excellent,257,Excellent - Refurbished,41.95,from United Kingdom,None,None,None
+41.99,Apple,34,Pre-Owned,27.22,from United States,None,None,None
+73.86,Samsung,8,Pre-Owned,26.37,from United States,None,None,None
+79.95,Brand,1,Brand New,31.3,from United Kingdom,None,None,None
+35,Apple,90,Pre-Owned,26.51,from United States,None,None,None
+16.26,Google,150,Very Good - Refurbished,32.54,from United Kingdom,None,None,None
+42.31 to 149.00,Samsung,137,Pre-Owned,27.32,from United States,None,None,None
+225.35,Apple,5,Good - Refurbished,30.41,from United States,None,None,None
+84.99,Samsung,10,Pre-Owned,28.74,from United States,None,None,None
+247.49,Gorilla,1,Brand New,6.26,from United Kingdom,None,None,None
+159.99 to 209.99,Apple,7,Very Good - Refurbished,30.8,from United States,None,None,None
+5.00 to 10.00,AT&T,142,Brand New,28.61,from United States,None,None,None
+268,Original,54,Brand New,3,from China,None,None,None
+152.9,Motorola,2,Open Box,27.78,from United States,None,None,None
+124.99,Apple,10,Very Good - Refurbished,30.03,from United States,None,None,None
+109,Apple,None,Excellent - Refurbished,47.06,from United Kingdom,None,None,None
+227.69,Apple,None,Pre-Owned,27.57,from United States,None,None,None
+241.17,Apple,None,Good - Refurbished,35.3,from United States,None,None,None
+98.00 to 127.00,Motorola,None,Excellent - Refurbished,28.55,from United States,None,None,None
+504.89,Samsung,None,Brand New,31.97,from United States,None,None,None
+149.99,Tecno,None,Brand New,Free,from India,None,None,None
+329.99,BRAND,None,Brand New,51.16,from United Kingdom,None,None,None
+209.99 to 233.31,Samsung,None,Very Good - Refurbished,32.58,from United States,None,None,None
+375.59,Google,None,Excellent - Refurbished,32.54,from United Kingdom,None,None,None
+362,Samsung,None,Good - Refurbished,29.11,from United States,None,None,None
+237.87,Open,None,Open Box,29.31,from United States,None,None,None
+179,LG,None,Pre-Owned,30.07,from United States,None,None,None
+189.95,BlackBerry,None,Brand New,2,from China,None,None,None
+229.85,iPhone,None,Pre-Owned,26.65,from United States,None,None,None
+189.99,Thrane,None,Pre-Owned,75.01,from United States,None,None,None
+49.95,Apple,None,Very Good - Refurbished,29.73,from United States,None,None,None
+49.99,Apple,None,Excellent - Refurbished,29.49,from United States,None,None,None
+212,Samsung,None,Brand New,27.3,from United States,None,None,None
+189.00 to 224.00,For,None,Brand New,6.26,from United Kingdom,None,None,None
+83.99,Samsung,None,Pre-Owned,34.5,from United States,None,None,None
+5.00 to 10.00,Apple,None,Pre-Owned,31.4,from United States,None,None,None
+20.5,NEW,None,Parts Only,13.94,from Germany,None,None,None
+69.99,Nokia,None,Very Good - Refurbished,27.51,from United States,None,None,None
+299.99,Apple,None,Very Good - Refurbished,57.42,from United Kingdom,None,None,None
+20.39,Google,None,Open Box,29.5,from United States,None,None,None
+94.99,Mobile,None,Brand New,40.16,from United Kingdom,None,None,None
+580.93 to 656.05,Apple,None,Pre-Owned,29.31,from United States,None,None,None
+199.99,LG,None,Pre-Owned,27,from United States,None,None,None
+15.01,NEW,None,Open Box,Free,from China,None,None,None
+189.99,Apple,None,Pre-Owned,31.78,from United States,None,None,None
+67.99,Apple,None,Pre-Owned,31.2,from United States,None,None,None
+38.99,Apple,None,Pre-Owned,28.55,from United States,None,None,None
+319.99,Apple,None,Very Good - Refurbished,28.04,from United States,None,None,None
+288.99,Apple,None,Good - Refurbished,28.73,from United States,None,None,None
+149.89,Samsung,None,Pre-Owned,27.03,from United States,None,None,None
+123.00 to 196.00,Samsung,None,Very Good - Refurbished,28.27,from United States,None,None,None
+159,Apple,None,Pre-Owned,31.31,from United States,None,None,None
+69.99,Nokia,None,Open Box,18.59,from United States,None,None,None
+135,TCL,None,Brand New,19.54,from Australia,None,None,None
+244.00 to 339.00,Samsung,None,Pre-Owned,29.81,from United States,None,None,None
+37.99,Apple,None,Pre-Owned,31.02,from United States,None,None,None
+239.57,Samsung,None,Open Box,21.19,from United States,None,None,None
+215.99,LG,None,Brand New,Free,from China,None,None,None
+279.99 to 349.99,Samsung,None,Good - Refurbished,28.54,from United States,None,None,None
+149.65 to 229.65,Alcatel,None,Open Box,26.27,from United States,None,None,None
+211.59,Motorola,None,Open Box,28.46,from United States,None,None,None
+149,Apple,None,Pre-Owned,27.97,from United States,None,None,None
+29.99,Samsung,None,Brand New,29.33,from United States,None,None,None
+144.99,Motorola,None,Pre-Owned,34.5,from United States,None,None,None
+68.00 to 119.00,ZTE,None,Pre-Owned,26.46,from United States,None,None,None
+190.99,NEW,None,Pre-Owned,37.55,from United Kingdom,None,None,None
+54.99,Apple,None,Pre-Owned,26.67,from United States,None,None,None
+88.99,Samsung,None,Open Box,29.31,from United States,None,None,None
+39.99,Apple,None,Good - Refurbished,27.55,from United States,None,None,None
+175.27,Samsung,None,Good - Refurbished,27.7,from United States,None,None,None
+51,Samsung,None,Very Good - Refurbished,27.89,from United States,None,None,None
+189.99,Apple,None,Parts Only,16.1,from Germany,None,None,None
+84.00 to 97.00,Google,None,Pre-Owned,25.87,from United States,None,None,None
+103.00 to 105.00,Motorola,None,Pre-Owned,48.29,from Germany,None,None,None
+114.99,Apple,None,Excellent - Refurbished,28.44,from United States,None,None,None
+289.7,Sonim,None,Pre-Owned,45.76,from United States,None,None,None
+8.5,Samsung,None,Pre-Owned,28.55,from United States,None,None,None
+21.46,Unlocked,None,Brand New,Free,from China,None,None,None
+136.00 to 166.00,NEW,None,Pre-Owned,44.88,from United States,None,None,None
+89.99,Google,None,Pre-Owned,29.03,from United States,None,None,None
+149.99,In-Box,None,Open Box,30.93,from United States,None,None,None
+169.81 to 174.40,Samsung,None,Open Box,30.25,from United States,None,None,None
+220,Samsung,None,Pre-Owned,28.84,from United States,None,None,None
+174.99,Kyocera,None,Pre-Owned,30.07,from United States,None,None,None
+274.95,Motorola,None,Pre-Owned,27.03,from United States,None,None,None
+239,NEW,None,Brand New,1,from China,None,None,None
+164.99,Apple,None,Pre-Owned,29.56,from United States,None,None,None
+229.9,Samsung,None,Brand New,59.55,from United States,None,None,None
+69.99,Apple,None,Parts Only,59.45,from United States,None,None,None
+192.00 to 205.00,Samsung,None,Pre-Owned,27.32,from United States,None,None,None
+203.00 to 370.00,T-Mobile/Metro,None,Open Box,27.79,from United States,None,None,None
+47.99,NEW,None,Brand New,51.49,from United Kingdom,None,None,None
+49.99,Samsung,None,Open Box,38.98,from United States,None,None,None
+187.99,Apple,7,Brand New,29.28,from United States,159,10,Customs services and international tracking provided
+94.99,LG,38,Open Box,27.51,from United States,60,5,Customs services and international tracking provided
+185.99,Samsung,3,Open Box,29.24,from United States,91,10,Customs services and international tracking provided
+179.99 to 229.99,TCL,6,Open Box,29.12,from United States,19,2,Customs services and international tracking provided
+109.99,T-Mobile/Metro,4,Open Box,27.79,from United States,7,7,Customs services and international tracking provided
+"1,163.11 to 1,307.09",Apple,1,Excellent - Refurbished,79.15,from United Kingdom,25,48,Customs services and international tracking provided
+474.95 to 588.95,SAMSUNG,12,Brand New,36.89,from United States,55,29,Customs services and international tracking provided
+345,Porsche,3,Brand New,24,from United Arab Emirates,55,12,Customs services and international tracking provided
+13.5,Mini,225,Brand New,Free,from Sri Lanka,12,34,Customs services and international tracking provided
+489.95,Apple,19,Open Box,35.01,from United States,318,16,Customs services and international tracking provided
+222.94,Tecno,6,Brand New,Free,from India,18,27,Customs services and international tracking provided
+0.99,NEW,8,Parts Only,35.37,from United States,71,2,Customs services and international tracking provided
+181.53,Nokia,433,Brand New,52.75,from United Kingdom,14,46,Customs services and international tracking provided
+244.14 to 306.74,7.2'',3,Pre-Owned,Free,from China,81,5,None
+186.00 to 274.00,Apple,4,Pre-Owned,29.24,from United States,66,39,None
+105.47,New,21,Brand New,27.71,from United States,62,23,None
+36,Apple,43,Pre-Owned,32.04,from United States,13,7,None
+119.99,OPEN,1,Open Box,27.98,from United States,17,56,None
+59.8,Bullitt,89,Pre-Owned,26.84,from United States,62,24,None
+220,Tecno,90,Brand New,Free,from India,18,24,None
+84.99,CAT,162,Good - Refurbished,27.32,from United States,"1,121",37,None
+249.98 to 339.98,Google,211,Excellent - Refurbished,30.45,from United States,453,42,None
+269,Samsung,7,Very Good - Refurbished,30.82,from United States,82,18,None
+254.99,Google,286,Pre-Owned,30.55,from United States,66,56,None
+49.99,Motorola,36,Pre-Owned,35.65,from United States,111,21,None
+330,Apple,1,Brand New,40.97,from United States,131,14,None
+249.99,Samsung,19,Parts Only,30.45,from United States,6,13,None
+67.49,Apple,102,Good - Refurbished,26.99,from United States,24,41,None
+114.94 to 194.94,Samsung,8,Open Box,21,from United States,12,18,None
+377.8,Apple,23,Pre-Owned,32.88,from United States,61,4,None
+89.25,TCL,8,Pre-Owned,27.4,from United States,111,29,None
+159.99,UMIDIGI,37,Certified - Refurbished,28.74,from United States,20,47,None
+106.24,Tel??fono,3,Brand New,4.35,from Spain,109,46,None
+74.99,Samsung,78,Good - Refurbished,27.13,from United States,103,34,None
+597.99,Samsung,14,Pre-Owned,37.07,from United States,68,15,None
+619.99,Apple,369,Pre-Owned,37.48,from United States,22,11,None
+99.00 to 299.00,Apple,1,Pre-Owned,6.99,from China,218,60,None
+35,HotPepper,5,Brand New,32.37,from United States,12,10,None
+140,Samsung,1,Pre-Owned,28.36,from United States,216,35,None
+234.95 to 254.95,Samsung,1,Open Box,22.33,from United States,80,57,None
+139.99,REVVL,4,Open Box,28.36,from United States,37,24,None
+25,LG,4,Parts Only,32.18,from United States,28,6,None
+136.71,DOCOMO,184,Pre-Owned,Free,from Japan,896,13,None
+15.65,New,2,Brand New,31.3,from United Kingdom,20,32,None
+119.99,Google,1,Pre-Owned,27.98,from United States,21,8,None
+114.99,Apple,2,Good - Refurbished,27.89,from United States,86,23,None
+139.99,OnePlus,55,Pre-Owned,28.36,from United States,12,35,None
+94,Sony,12,Brand New,Free,from China,55,20,None
+717.29,Apple,11,Good - Refurbished,39.33,from United States,17,19,None
+189.95,In-Box,32,Open Box,29.31,from United States,19,6,None
+89.09,Apple,171,Very Good - Refurbished,27.4,from United States,821,428,None
+74.99,Samsung,30,Pre-Owned,27.13,from United States,9,38,None
+279,Motorola,3,Open Box,41.41,from United States,543,3,None
+"969.99 to 1,169.99",Apple,8,Pre-Owned,44.13,from United States,330,20,None
+319.00 to 349.00,Apple,14,Open Box,31.77,from United States,27,36,None
+562.00 to 584.00,Apple,2,Excellent - Refurbished,36.74,from United States,38,2,None
+79.93,Sony,1,Open Box,64.65,from United States,87,7,None
+29.99,T-Mobile,6,Parts Only,26.27,from United States,133,2,None
+115,Apple,2,Pre-Owned,27.89,from United States,42,10,None
+791.99,Apple,1,Excellent - Refurbished,40.75,from United States,166,3,None
+315.99,Xiaomi,8,Brand New,31.71,from United States,6,86,None
+216.99,Apple,88,Very Good - Refurbished,29.83,from United States,"1,563",32,None
+132.99,Samsung,15,Good - Refurbished,19.99,from United States,16,11,None
+237.87,Samsung,26,Excellent - Refurbished,32.54,from United Kingdom,51,40,None
+32.85,Samsung,30,Pre-Owned,26.33,from United States,22,62,None
+422.00 to 645.00,Apple,151,Good - Refurbished,33.72,from United States,38,11,None
+149.99,Samsung,11,Pre-Owned,28.55,from United States,88,34,None
+384.36,BlackBerry,137,Brand New,Free,from China,17,21,None
+39.99,Apple,9,Parts Only,26.46,from United States,461,9,None
+73.99,NEW,4,Brand New,27.11,from United States,354,59,None
+79,Ericsson,47,Open Box,Free,from China,23,22,None
+386.99,Apple,174,Excellent - Refurbished,33.06,from United States,435,26,None
+214.99 to 264.99,Samsung,9,Pre-Owned,29.79,from United States,"1,004",17,None
+32.00 to 49.00,Apple,5,Pre-Owned,178.6,from United States,480,27,None
+164.99,Samsung,142,Good - Refurbished,28.84,from United States,35,16,None
+211.50 to 233.10,Samsung,42,Excellent - Refurbished,30.13,from United States,60,4,None
+22.98,NEW,18,Brand New,1,from China,209,None,None
+29.99,(Green),12,Brand New,36.47,from United States,44,None,None
+18.17,(Black),94,Brand New,0.99,from China,16,None,None
+119.99,Samsung,2,Pre-Owned,27.98,from United States,54,None,None
+122.93,Xiaomi,4,Pre-Owned,13.44,from Australia,None,None,None
+5.00 to 7.50,Clear,49,Brand New,6.26,from United Kingdom,None,None,None
+249.99,Google,10,Open Box,30.45,from United States,None,None,None
+119.99,Moto,22,Brand New,27.98,from United States,None,None,None
+129.99,Samsung,208,Pre-Owned,28.17,from United States,None,None,None
+713.63,Samsung,12,Excellent - Refurbished,32.54,from United Kingdom,None,None,None
+28.8,New,3,Brand New,6,from China,None,None,None
+229.99,Apple,1,Pre-Owned,30.07,from United States,None,None,None
+114.85 to 239.85,Samsung,15,Open Box,20.43,from United States,None,None,None
+107,Samsung,734,Pre-Owned,27.74,from United States,None,None,None
+54.99 to 94.99,Apple,7,Pre-Owned,178.6,from United States,None,None,None
+89.99 to 129.99,Apple,2,Pre-Owned,28.17,from United States,None,None,None
+239.99 to 289.99,Samsung,45,Pre-Owned,30.26,from United States,None,None,None
+35,SAMSUNG,3,Pre-Owned,26.37,from United States,None,None,None
+18.99 to 30.99,Apple,5,Pre-Owned,148.32,from United States,None,None,None
+185.00 to 279.00,Apple,94,Pre-Owned,29.22,from United States,None,None,None
+144.99 to 289.99,SAMSUNG,101,Pre-Owned,29.12,from United States,None,None,None
+99.99 to 139.99,Apple,19,Pre-Owned,148.32,from United States,None,None,None
+74.99,TCL,75,Excellent - Refurbished,27.13,from United States,None,None,None
+25,Google,133,Brand New,Shipping,from United States,None,None,None
+439.00 to 509.00,Apple,20,Pre-Owned,34.05,from United States,None,None,None
+28.99 to 49.99,Apple,1,Pre-Owned,178.6,from United States,None,None,None
+59.99,Panasonic,465,Open Box,59.55,from United States,None,None,None
+"937.95 to 1,169.95",Apple,54,Open Box,43.91,from United States,None,None,None
+513.31,NEW,24,Excellent - Refurbished,55.35,from United Kingdom,None,None,None
+24.99 to 42.99,Apple,20,Pre-Owned,148.32,from United States,None,None,None
+98.9,Metro,18,Brand New,27.58,from United States,None,None,None
+249,LG,30,Brand New,Free,from China,None,None,None
+89,Samsung,2,Pre-Owned,27.4,from United States,None,None,None
+442.99,????????NEW,69,Brand New,34.12,from United States,None,None,None
+154.99,Samsung,4,Brand New,28.65,from United States,None,None,None
+7.5,for,91,Brand New,39.93,from United Kingdom,None,None,None
+91,Sony,5,Pre-Owned,27.43,from United States,None,None,None
+24.00 to 37.00,???Ò,2,Pre-Owned,7,from China,None,None,None
+114.85 to 249.85,Samsung,23,Open Box,20.34,from United States,None,None,None
+167.99,Samsung,6,Pre-Owned,28.9,from United States,None,None,None
+464.99 to 544.99,Samsung,38,Pre-Owned,34.54,from United States,None,None,None
+24.99 to 47.99,Apple,552,Pre-Owned,148.32,from United States,None,None,None
+519.99,Google,492,Pre-Owned,35.58,from United States,None,None,None
+199.99,Realme,84,Brand New,29.5,from United States,None,None,None
+349,Samsung,3,Pre-Owned,Free,from South Korea,None,None,None
+475.99 to 559.99,Samsung,45,Open Box,34.75,from United States,None,None,None
+14.97,NICE,9,Brand New,5.2,from France,None,None,None
+99.99,Samsung,26,Good - Refurbished,27.6,from United States,None,None,None
+119.99,iPhone,3,Parts Only,27.98,from United States,None,None,None
+83.87,Nokia,5,Brand New,42.26,from United Kingdom,None,None,None
+224,Apple,40,Good - Refurbished,29.96,from United States,None,None,None
+103.85,Samsung,236,Brand New,42.87,from United Kingdom,None,None,None
+190.3,Samsung,267,Brand New,Free,from China,None,None,None
+199.99 to 209.99,Samsung,2,Pre-Owned,29.69,from United States,None,None,None
+90,SHARP,216,Pre-Owned,Free,from Japan,None,None,None
+109.99 to 299.99,SAMSUNG,3,Pre-Owned,28.36,from United States,None,None,None
+142,New,32,Brand New,Free,from China,None,None,None
+27,Nokia,38,Pre-Owned,26.22,from United States,None,None,None
+186.00 to 196.00,Sony,None,Brand New,Free,from China,None,None,None
+114.95 to 229.95,Apple,None,Open Box,22.24,from United States,None,None,None
+379.99 to 439.99,Google,None,Pre-Owned,32.92,from United States,None,None,None
+19.99,Nuu,None,Pre-Owned,26.08,from United States,None,None,None
+224.95 to 309.95,Samsung,None,Open Box,22.14,from United States,None,None,None
+333.71 to 466.70,Apple,None,Excellent - Refurbished,49.88,from United Kingdom,None,None,None
+169,Samsung,None,Pre-Owned,Free,from South Korea,None,None,None
+105,Motorola,None,Excellent - Refurbished,27.7,from United States,None,None,None
+204.99,Samsung,None,Pre-Owned,29.6,from United States,None,None,None
+804.76,Apple,None,Brand New,Shipping,from Italy,None,None,None
+159.99,Open,None,Open Box,28.74,from United States,None,None,None
+69,Straight,None,Brand New,51.97,from United States,None,None,None
+27.97,Apple,None,Pre-Owned,44.58,from United States,None,None,None
+701.11,Apple,None,Excellent - Refurbished,61.09,from United Kingdom,None,None,None
+588.44,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+71.66,Huawei,None,Pre-Owned,Shipping,from Germany,None,None,None
+15.65,Nokia,None,Brand New,40.18,from United Kingdom,None,None,None
+125.2,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+536.56,NEW,None,Brand New,Shipping,from Germany,None,None,None
+796.27,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+197.5,Apple,None,Brand New,Shipping,from United States,None,None,None
+275,NEW,None,Brand New,Shipping,from United States,None,None,None
+185,NEW,None,Pre-Owned,Shipping,from United States,None,None,None
+218,NEW,None,Pre-Owned,Shipping,from United States,None,None,None
+167.5,Apple,None,Pre-Owned,36.15,from United States,None,None,None
+349.99,Motorola,None,Pre-Owned,94.21,from United States,None,None,None
+409.99 to 549.99,NEW,None,Pre-Owned,Shipping,from Italy,None,None,None
+17.95,NEW,None,Brand New,Shipping,from United Kingdom,None,None,None
+385.26,NEW,None,Pre-Owned,Shipping,from Canada,None,None,None
+500.8,NEW,None,Pre-Owned,18.07,from Germany,None,None,None
+170.28,For,None,Brand New,Shipping,from United States,None,None,None
+177.07,Apple,None,Pre-Owned,39.85,from United Kingdom,None,None,None
+10.51 to 10.91,Silicone,None,Brand New,Shipping,from United Kingdom,None,None,None
+300.48,NEW,None,Pre-Owned,Free,from United Kingdom,None,None,None
+4.24 to 4.95,Nokia,None,Brand New,37.47,from United Arab Emirates,None,None,None
+150.24,Samsung,None,Open Box,Shipping,from United States,None,None,None
+287.96,ASUS,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+619,Samsung,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+250.4,NEW,None,New (Other),Shipping,from Italy,None,None,None
+87.64,NEW,None,Pre-Owned,Shipping,from Germany,None,None,None
+536.58,NEW,None,Open Box,Shipping,from United States,None,None,None
+804.86,Apple,None,Pre-Owned,Shipping,from Australia,None,None,None
+140.58,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+700,NEW,None,Parts Only,Shipping,from United Kingdom,None,None,None
+426.17,NEW,None,Parts Only,Shipping,from United Kingdom,None,None,None
+187.8,NEW,None,Parts Only,Shipping,from United States,None,None,None
+27.04,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+100.16,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+52.58,Apple,None,Pre-Owned,Shipping,from Canada,None,None,None
+156.5,Redmi,None,Brand New,Shipping,from Switzerland,None,None,None
+40,Samsung,None,Brand New,Shipping,from United Kingdom,None,None,None
+70,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+156.5,NEW,None,New (Other),Shipping,from Italy,None,None,None
+106.42,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+281.33,NEW,None,Parts Only,Shipping,from France,None,None,None
+256.48 to 299.41,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+100.02 to 100.15,Joblot,None,Parts Only,Shipping,from United Kingdom,None,None,None
+138.97,Apple,None,Pre-Owned,Shipping,from United States,None,None,None
+348.77,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+56.33 to 81.37,NEW,None,Pre-Owned,27.6,from United Kingdom,None,None,None
+1.07,Samsung,None,Open Box,26.18,from United States,None,None,None
+71.36,Original,None,Pre-Owned,29.98,from United States,None,None,None
+68.86,Samsung,None,Pre-Owned,Shipping,from United States,None,None,None
+210,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+164.01,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+363.08,NEW,None,Parts Only,Shipping,from United States,None,None,None
+99.99 to 119.99,Apple,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+25,Xiaomi,None,Brand New,29.12,from Switzerland,None,None,None
+224.99,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+14.4,Apple,None,Pre-Owned,0.65,from United States,None,None,None
+200.32,Apple,None,Parts Only,48.29,from Germany,None,None,None
+287.96,(Sakura,None,Brand New,40.45,from China,None,None,None
+100,Samsung,None,Pre-Owned,26.84,from Germany,None,None,None
+500,NEW,None,Pre-Owned,40.65,from United States,None,None,None
+125.2,Lively-,None,Brand New,15,from United States,None,None,None
+317.76,Big,None,Brand New,66.16,from United Kingdom,None,None,None
+199.07,NEW,None,Pre-Owned,23.43,from Finland,None,None,None
+179.99,NEW,None,Pre-Owned,Shipping,from United States,None,None,None
+22,Apple,None,Pre-Owned,25.89,from United States,None,None,None
+40.83,Apple,None,Pre-Owned,6.26,from United Kingdom,None,None,None
+57.95,Wall,None,Brand New,48.29,from United States,None,None,None
+200,Case,None,Brand New,40.8,from United Kingdom,None,None,None
+59.95,Motorola,None,Pre-Owned,1.24,from Germany,None,None,None
+31.29,Doro,None,Brand New,37.6,from United Kingdom,None,None,None
+10,Retro,None,Brand New,27.6,from China,None,None,None
+200,Samsung,None,Pre-Owned,6.26,from United States,None,None,None
+29.99,NEW,None,Brand New,33.21,from United States,None,None,None
+13.15,For,None,Brand New,26.83,from United Kingdom,None,None,None
+9.99,Apple,None,Pre-Owned,26.46,from United States,None,None,None
+8.75,Samsung,None,New (Other),29.3,from Italy,None,None,None
+26.83,Nokia,None,Pre-Owned,48.29,from United States,None,None,None
+36.31,???ùNew,None,Brand New,Shipping,from United States,None,None,None
+16.24,Motorola,None,Pre-Owned,26.83,from Germany,None,None,None
+50,Xiaomi,None,New (Other),37.1,from United Kingdom,None,None,None
+99.99,FOR,None,Parts Only,27.41,from United States,None,None,None
+5.00 to 10.00,PARTS,None,Parts Only,98.25,from United States,None,None,None
+395.19,Motorola,None,Brand New,23.58,from United States,None,None,None
+375.6,7-Oct,None,Pre-Owned,45.23,from Canada,None,None,None
+39.97,Good,None,Pre-Owned,18.3,from United States,None,None,None
+189,iPhone,None,Very Good - Refurbished,29.06,from United Kingdom,None,None,None
+47.22,Apple,None,Pre-Owned,28.1,from United States,None,None,None
+187.8,Google,None,Good - Refurbished,27.13,from United States,None,None,None
+262.92,Apple,None,Good - Refurbished,27.02,from United States,None,None,None
+58.99,Lively-,None,Brand New,42.66,from United States,None,None,None
+599.99,NEW,None,Pre-Owned,None,from United States,None,None,None
+89.99,NEW,None,Pre-Owned,None,from United States,None,None,None
+429,Samsung,8,Very Good - Refurbished,33.86,from United States,55,14,Customs services and international tracking provided
+66.3,Samsung,1,Pre-Owned,26.96,from United States,24,4,Customs services and international tracking provided
+69.99,Samsung,14,Pre-Owned,27.03,from United States,70,11,Customs services and international tracking provided
+99.55,Kyocera,25,Pre-Owned,27.6,from United States,54,17,Customs services and international tracking provided
+110.00 to 135.00,Apple,216,Good - Refurbished,28.1,from United States,59,6,Customs services and international tracking provided
+74.99,Lively-,3,Brand New,27.13,from United States,201,15,Customs services and international tracking provided
+811.79,Apple,10,Good - Refurbished,41.13,from United States,95,22,Customs services and international tracking provided
+440.09,Apple,128,Good - Refurbished,34.07,from United States,11,9,Customs services and international tracking provided
+188.09,Apple,25,Good - Refurbished,29.28,from United States,72,5,Customs services and international tracking provided
+100,Apple,49,Open Box,38.25,from United States,380,31,Customs services and international tracking provided
+282,Apple,13,Excellent - Refurbished,31.06,from United States,135,20,Customs services and international tracking provided
+217.79,Google,14,Very Good - Refurbished,29.84,from United States,226,19,Customs services and international tracking provided
+113.00 to 212.00,Apple,44,Good - Refurbished,27.98,from United States,13,44,Customs services and international tracking provided
+69.99 to 119.99,Samsung,4,Pre-Owned,27.98,from United States,134,10,Customs services and international tracking provided
+275,Samsung,91,Open Box,30.93,from United States,82,127,None
+303.88 to 439.88,NEW,1,Brand New,31.48,from United States,15,23,None
+349.31,2023,129,Brand New,50.36,from United Kingdom,134,2,None
+7.5,Full,80,Brand New,6.26,from United Kingdom,72,14,None
+727.00 to 872.00,Apple,174,Excellent - Refurbished,39.52,from United States,139,35,None
+109.44,Kyocera,3,Open Box,27.78,from United States,68,6,None
+2.25,NEW,7,Pre-Owned,17.91,from United States,234,58,None
+20.5,NEW,18,Pre-Owned,26.09,from United States,107,32,None
+456.97 to 494.53,Samsung,373,Brand New,53.64,from United Kingdom,6,4,None
+169.99,BRAND,4,Brand New,56.23,from United States,31,41,None
+576.00 to 684.00,Apple,65,Very Good - Refurbished,36.72,from United States,12,16,None
+633.59,Apple,25,Good - Refurbished,37.74,from United States,13,10,None
+85.23,Apple,12,Pre-Owned,19.67,from Australia,"2,436",6,None
+95.51,Samsung,22,Pre-Owned,48.29,from Germany,80,26,None
+130,Apple,2,Excellent - Refurbished,28.17,from United States,21,23,None
+169.99,realme,116,Pre-Owned,28.93,from United States,15,20,None
+154.9,Motorola,186,Pre-Owned,28.65,from United States,"1,906",20,None
+169.99,UNLOCKED,37,Open Box,28.93,from United States,34,8,None
+25,Lot,1,Parts Only,60.97,from United States,15,8,None
+123.00 to 131.00,Apple,45,Very Good - Refurbished,28.04,from United States,42,17,None
+263.99,Apple,16,Very Good - Refurbished,30.72,from United States,45,11,None
+7.5,Case,8,Brand New,6.26,from United Kingdom,212,11,None
+465.29,Apple,2,Very Good - Refurbished,34.54,from United States,32,13,None
+129.95,CAT,14,Brand New,28.17,from United States,40,10,None
+250,Tecno,5,Brand New,Free,from India,44,2,None
+175,Samsung,174,Pre-Owned,29.03,from United States,96,50,None
+134.95,Samsung,48,Brand New,28.27,from United States,20,8,None
+366.29,Apple,8,Very Good - Refurbished,32.66,from United States,43,4,None
+409.99,Samsung,23,Brand New,33.49,from United States,147,9,None
+72,NEW,2,Pre-Owned,27.07,from United States,29,23,None
+355.49,Apple,7,Excellent - Refurbished,32.46,from United States,20,16,None
+169.99,Samsung,2,Brand New,28.93,from United States,89,13,None
+189,???ùNew,7,Brand New,29,from United States,146,28,None
+249.99,Samsung,251,Very Good - Refurbished,30.45,from United States,65,10,None
+186.54,New,6,Brand New,45.39,from United Kingdom,71,15,None
+46.95,Sky,26,Brand New,26.6,from United States,117,13,None
+279.99,Samsung,107,Open Box,31.02,from United States,16,6,None
+259.99,Huawei,5,Brand New,30.64,from United States,208,45,None
+864.95 to 949.95,SAMSUNG,25,Brand New,43.75,from United States,80,28,None
+336.59,Apple,22,Good - Refurbished,32.1,from United States,22,10,None
+105.00 to 112.00,Samsung,5,Very Good - Refurbished,27.83,from United States,12,16,None
+22.16,(Black),6,Brand New,0.65,from China,233,69,None
+7.50 to 10.00,For,3,Brand New,6.26,from United Kingdom,87,23,None
+51.78 to 52.37,I14pro,43,Brand New,0.61,from China,20,5,None
+26.88,V12,3,Brand New,Free,from China,10,24,None
+8.75,Flip,2,Brand New,6.26,from United Kingdom,9,5,None
+6.25 to 10.00,6D,1,Brand New,6.26,from United Kingdom,125,15,None
+800,Microsoft,83,Pre-Owned,Free,from Japan,83,11,None
+124,Samsung,3,Very Good - Refurbished,46.4,from United States,19,25,None
+199.99,FULLY,8,Pre-Owned,38.45,from United States,196,12,None
+76,Apple,4,Pre-Owned,27.15,from United States,110,18,None
+812.55,Apple,3,Brand New,64.48,from United Kingdom,75,24,None
+5.00 to 10.00,For,40,Brand New,6.26,from United Kingdom,152,50,None
+74.88,Boost,9,Brand New,27.13,from United States,57,15,None
+150.79,Motorola,4,Good - Refurbished,28.57,from United States,36,9,None
+103,Apple,19,Very Good - Refurbished,27.66,from United States,39,None,None
+65,Excellent,1,Pre-Owned,26.94,from United States,11,None,None
+69.99,Tracfone,3,Brand New,45.38,from United States,525,None,None
+247.49,Apple,12,Excellent - Refurbished,30.41,from United States,271,None,None
+356.88,NEW,334,Brand New,32.49,from United States,186,None,None
+405.89,Apple,8,Good - Refurbished,33.42,from United States,159,None,None
+81.38,Samsung,7,Parts Only,Shipping,from United Kingdom,124,None,None
+125.2,Apple,159,Very Good - Refurbished,29.84,from United States,25,None,None
+217.79,B&R,12,Brand New,21.59,from United States,20,None,None
+6.75,Motorola,11,Brand New,27.93,from United States,23,None,None
+116.99,Apple,3,Excellent - Refurbished,27.55,from United States,6,None,None
+96.99,É?ê,26,Open Box,29.41,from United States,62,None,None
+195,Apple,1435,Very Good - Refurbished,32.79,from United States,272,None,None
+371.00 to 565.00,Google,1,Pre-Owned,27.32,from United States,147,None,None
+84.99,Samsung,13,Parts Only,33.89,from United States,197,None,None
+10,OnePlus,23,Brand New,34.25,from United States,27,None,None
+449.99,Samsung,1,Open Box,29.88,from United States,93,None,None
+219.99,Xiaomi,2,Brand New,48.29,from United Kingdom,14,None,None
+281.69,Alcatel,11,Brand New,26.65,from United States,11,None,None
+49.95,Apple,32,Brand New,40.33,from United States,33,None,None
+759.95 to 769.95,Apple,47,Very Good - Refurbished,33.21,from United States,88,None,None
+395,Apple,1,Pre-Owned,27.6,from United States,7,None,None
+99.99,5D,130,Brand New,6.26,from United Kingdom,19,None,None
+8.75,Samsung,174,Brand New,27.41,from United States,55,None,None
+89.99,Apple,60,Good - Refurbished,31.97,from United States,13,None,None
+329.99,Kyocera,17,Pre-Owned,27.6,from United States,941,None,None
+99.88,Google,760,Good - Refurbished,29.05,from United States,None,None,None
+175.99,Wiko,1,Very Good - Refurbished,26.62,from United States,None,None,None
+47.95,Case,6,Brand New,6.26,from United Kingdom,None,None,None
+7.5,NEW,111,Pre-Owned,30.03,from United States,None,None,None
+0.99,Motorola,4,Brand New,39.95,from United States,None,None,None
+165,Black,67,Brand New,0.61,from China,None,None,None
+749.95,Brand,128,Brand New,26.84,from United States,None,None,None
+33.1,Samsung,4,Very Good - Refurbished,39.1,from United States,None,None,None
+60,New,154,Brand New,9.88,from China,None,None,None
+705,Apple,30,Very Good - Refurbished,44.42,from United States,None,None,None
+129.83 to 179.23,US,50,Brand New,26.25,from United States,None,None,None
+985,Apple,10,Pre-Owned,33.59,from United States,None,None,None
+28.88,ZTE,8,Brand New,28.36,from United States,None,None,None
+414.99,SAMSUNG,266,Brand New,35.18,from United States,None,None,None
+139.95,Nokia,2,Brand New,9.66,from Germany,None,None,None
+498.95,Apple,7,Very Good - Refurbished,41.32,from United States,None,None,None
+67.6,Shockproof,52,Brand New,6.26,from United Kingdom,None,None,None
+821.69,Apple,19,Pre-Owned,29.79,from United States,None,None,None
+7.5,Samsung,6,Good - Refurbished,29.79,from United States,None,None,None
+215,USB,9,Brand New,Free,from China,None,None,None
+215,Case,103,Brand New,6.26,from United Kingdom,None,None,None
+6.26 to 11.39,Samsung,306,Pre-Owned,48.51,from United States,None,None,None
+6.25 to 8.75,Huawei,2,Brand New,30.83,from United States,None,None,None
+24.99,Samsung,8,Very Good - Refurbished,31.12,from United States,None,None,None
+269.99,Apple,43,Pre-Owned,49.25,from United States,None,None,None
+285,Nokia,4,Brand New,Free,from China,None,None,None
+450,FULLY,10,Open Box,29.98,from United States,None,None,None
+22.99,Apple,39,Pre-Owned,28.93,from United States,None,None,None
+225,Brand,11,Brand New,26.73,from United States,None,None,None
+164.99 to 259.99,Samsung,9,Good - Refurbished,30.45,from United States,None,None,None
+54,Apple,1,Brand New,45.59,from United States,None,None,None
+249.99,Case,18,Brand New,6.26,from United Kingdom,None,None,None
+309.95,NEW,28,Brand New,27.6,from United States,None,None,None
+5.00 to 7.50,Motorola,22,Excellent - Refurbished,27.21,from United States,None,None,None
+99.99,Apple,32,Very Good - Refurbished,29.04,from United States,None,None,None
+79,Samsung,31,Brand New,Free,from China,None,None,None
+175.49,Google,4,Good - Refurbished,42.33,from United Kingdom,None,None,None
+215,Google,4,Open Box,30.93,from United States,None,None,None
+86.39,Nokia,12,Brand New,40.65,from United Kingdom,None,None,None
+275,Motorola,46,Excellent - Refurbished,28.17,from United States,None,None,None
+31.3,SAMSUNG,23,Brand New,38.22,from United States,None,None,None
+129.99,Apple,11,Excellent - Refurbished,34.69,from United States,None,None,None
+658.95,360,None,Brand New,6.26,from United Kingdom,None,None,None
+472.99,Apple,None,Pre-Owned,35.04,from United Kingdom,None,None,None
+8.75,DOOGEE,None,Brand New,43.9,from United Kingdom,None,None,None
+35.04,NEW*,None,Open Box,43.37,from United States,None,None,None
+137.71,Samsung,None,Pre-Owned,78.8,from United States,None,None,None
+929.99,SONY,None,Brand New,Free,from Japan,None,None,None
+38.25,New,None,Brand New,Free,from China,None,None,None
+169.99,Apple,None,Pre-Owned,29.03,from United States,None,None,None
+55.84 to 56.14,Nokia,None,Brand New,26.27,from United States,None,None,None
+175,Apple,None,Pre-Owned,46.22,from United States,None,None,None
+29.99,Apple,None,Excellent - Refurbished,42.26,from United States,None,None,None
+80,Blackview,None,Pre-Owned,27.41,from United States,None,None,None
+871.19 to 881.09,Apple,None,Pre-Owned,31.78,from United States,None,None,None
+89.99,Moto,None,Brand New,27.41,from United States,None,None,None
+319.99 to 439.99,Apple,None,Good - Refurbished,36.43,from United States,None,None,None
+89.95,Motorola,None,Good - Refurbished,28.35,from United States,None,None,None
+564.29,FULLY,None,Open Box,28.54,from United States,None,None,None
+139,For,None,Brand New,18.08,from United States,None,None,None
+149,Full,None,Brand New,39.85,from United Kingdom,None,None,None
+11.39 to 12.34,Samsung,None,Good - Refurbished,44.93,from United Kingdom,None,None,None
+3.74 to 4.82,Apple,None,Very Good - Refurbished,28.27,from United States,None,None,None
+171.52 to 172.78,For,None,Brand New,18.1,from United States,None,None,None
+135,Shockproof,None,Brand New,6.26,from United Kingdom,None,None,None
+11.99,SONY,None,Brand New,Free,from Japan,None,None,None
+7.5,NEW,None,Pre-Owned,26.09,from United States,None,None,None
+209.98,NEW,None,Pre-Owned,37.55,from United Kingdom,None,None,None
+20.5,Motorola,None,Pre-Owned,4.29,from China,None,None,None
+87.63,Apple,None,Good - Refurbished,31.43,from United States,None,None,None
+26.82,ZTE,None,Open Box,26.94,from United States,None,None,None
+301.49,IIIF150,None,Brand New,7.51,from Germany,None,None,None
+64.99,Samsung,None,Open Box,27.1,from United States,None,None,None
+170.63,Case,None,Brand New,6.26,from United Kingdom,None,None,None
+73.55,For,None,Brand New,18.1,from United States,None,None,None
+7.5,Apple,None,Brand New,33.3,from United States,None,None,None
+11.99 to 12.59,Motorola,None,Brand New,28.16,from United States,None,None,None
+399.99,Samsung,None,Brand New,34.82,from United States,None,None,None
+129,LG,None,Open Box,31.88,from United States,None,None,None
+479.99,Apple,None,Open Box,29.22,from United States,None,None,None
+324.99,Huawei,None,Open Box,28.55,from United States,None,None,None
+184.88,Sony,None,Open Box,28.17,from United States,None,None,None
+149.99 to 169.99,Unlocked,None,Brand New,Free,from China,None,None,None
+129.99,GORILLA,None,Brand New,39.85,from United Kingdom,None,None,None
+35.06 to 38.36,Verizon,None,Open Box,27.89,from United States,None,None,None
+3.74 to 5.00,NEW,None,Open Box,29.66,from United States,None,None,None
+115,Apple,None,Pre-Owned,29.24,from United States,None,None,None
+208,Google,None,Good - Refurbished,29.31,from United States,None,None,None
+185.88,iPhone,None,Pre-Owned,31.69,from United States,None,None,None
+189.99,Apple,None,Pre-Owned,29.31,from United States,None,None,None
+315,MOTOROLA,None,Brand New,2.9,from Germany,None,None,None
+189.99,Apple,None,Open Box,31.13,from United States,None,None,None
+8.04,Apple,None,Pre-Owned,28.36,from United States,None,None,None
+285.59,Apple,None,Good - Refurbished,45.05,from United Kingdom,None,None,None
+139.99,CAT,None,Brand New,Shipping,from Germany,None,None,None
+175.27,Case,None,Brand New,6.26,from United Kingdom,None,None,None
+105.08,Google,None,Pre-Owned,34.73,from United States,None,None,None
+10,New,None,Brand New,42.57,from United Kingdom,None,None,None
+475,Google,None,Very Good - Refurbished,31.59,from United States,None,None,None
+93.89,Apple,None,Good - Refurbished,29.65,from United States,None,None,None
+309.99,LG,None,Open Box,28.93,from United States,None,None,None
+207.89,Google,None,Pre-Owned,27.98,from United States,None,None,None
+169.99,Samsung,None,Brand New,30.45,from United States,None,None,None
+119.99,Brand,None,Brand New,26.75,from United States,None,None,None
+249.95,Oppo,None,Pre-Owned,37.55,from United Kingdom,None,None,None
+54.99,NICE,None,Brand New,5.2,from France,None,None,None
+112.67,Wiko,None,Open Box,26.35,from United States,None,None,None
+12.52,B25,None,Brand New,16.26,from United Kingdom,None,None,None
+34,For,None,Brand New,25.91,from United States,None,None,None
+20.02,Tracfone,None,Brand New,19.01,from United States,None,None,None
+8.99 to 10.91,É?ê,None,Open Box,30.74,from United States,None,None,None
+59.99,OnePlus,None,Brand New,28.55,from United States,None,None,None
+265,Samsung,None,Pre-Owned,27.41,from United States,None,None,None
+149.95,Apple,None,Very Good - Refurbished,30.59,from United States,None,None,None
+89.99,Sky,None,Brand New,26.92,from United States,None,None,None
+257.39 to 267.29,S555,None,Brand New,Free,from China,None,None,None
+63.99,For,None,Brand New,18.06,from United States,None,None,None
+28.77,Apple,None,Good - Refurbished,32.29,from United States,None,None,None
+9.99 to 10.44,Reno,None,Brand New,1.24,from China,None,None,None
+346.49,Samsung,None,Pre-Owned,27.41,from United States,None,None,None
+67.41,Apple,None,Parts Only,38.25,from United States,None,None,None
+89.99,Verizon,None,Open Box,28.35,from United States,None,None,None
+100,Liquid,None,Brand New,39.85,from United Kingdom,None,None,None
+139,Apple,None,Pre-Owned,37.7,from United States,None,None,None
+5,Sony,None,Brand New,65.86,from United States,None,None,None
+55,Apple,None,Open Box,28.99,from United States,None,None,None
+100,Brand,None,Brand New,31.4,from United States,None,None,None
+800,Samsung,None,Good - Refurbished,32.73,from United States,None,None,None
+172.88,OnePlus,None,Excellent - Refurbished,33.11,from United States,None,None,None
+299.99,Apple,None,Very Good - Refurbished,37.37,from United States,None,None,None
+369.99,OnePlus,None,Open Box,32.73,from United States,None,None,None
+389.99,1x,None,Brand New,Free,from China,None,None,None
+613.79,Samsung,None,Open Box,28.27,from United States,None,None,None
+369.99,Good,None,Pre-Owned,23.58,from United States,None,None,None
+6.57,SAMSUNG,None,Brand New,32.35,from United States,None,None,None
+135,NEW,None,Parts Only,64.17,from United States,None,None,None
+37.98,Apple,None,Pre-Owned,30.07,from United States,None,None,None
+349.95,Motorola,None,Brand New,28.35,from United States,None,None,None
+375,ASUS,None,Pre-Owned,35.76,from United States,None,None,None
+229.99,Samsung,None,Good - Refurbished,29.88,from United States,None,None,None
+139,Samsung,None,Pre-Owned,30.55,from United States,None,None,None
+529,Google,None,Pre-Owned,27.7,from United States,None,None,None
+220,Apple,None,Pre-Owned,Free,from China,None,None,None
+254.99,Smallest,None,Brand New,9.65,from China,None,None,None
+104.99,Samsung,None,Good - Refurbished,28.74,from United States,None,None,None
+195,Nokia,23,Open Box,Free,from China,30,6,Customs services and international tracking provided
+53.99,Verizon,129,Pre-Owned,26.73,from United States,226,19,Customs services and international tracking provided
+55.25,Samsung,11,Pre-Owned,26.75,from United States,51,56,Customs services and international tracking provided
+89.99,NEW,23,Brand New,27.41,from United States,273,67,Customs services and international tracking provided
+40.99 to 59.99,Apple,13,Pre-Owned,Free,from China,37,35,Customs services and international tracking provided
+175,Samsung,36,Very Good - Refurbished,29.03,from United States,858,23,Customs services and international tracking provided
+9.49,For,4,Brand New,18.05,from United States,66,18,Customs services and international tracking provided
+132.99,Samsung,1,Brand New,28.23,from United States,94,20,Customs services and international tracking provided
+4.37 to 7.50,Full,4,Brand New,6.26,from United Kingdom,294,24,Customs services and international tracking provided
+36.00 to 48.00,90%Ne,12,Pre-Owned,Free,from China,72,6,Customs services and international tracking provided
+159.99,Apple,13,Brand New,28.74,from United States,17,103,Customs services and international tracking provided
+40.88 to 118.99,Apple,17,Pre-Owned,Free,from China,61,10,Customs services and international tracking provided
+114,Motorola,22,Brand New,27.87,from United States,639,6,Customs services and international tracking provided
+47.99,HTC,64,Open Box,69.7,from United States,20,3,Customs services and international tracking provided
+6.25 to 7.50,Case,25,Brand New,39.93,from United Kingdom,59,25,Customs services and international tracking provided
+6.25 to 7.50,Armor,70,Brand New,39.93,from United Kingdom,11,1,Customs services and international tracking provided
+67.95,New,3,Brand New,27,from United States,22,3,Customs services and international tracking provided
+199.07,LG,97,Brand New,Free,from China,21,8,Customs services and international tracking provided
+7.5,For,13,Brand New,6.26,from United Kingdom,41,1,Customs services and international tracking provided
+89.99,Samsung,10,Pre-Owned,27.41,from United States,78,15,Customs services and international tracking provided
+154.99 to 164.99,Samsung,14,Pre-Owned,28.65,from United States,"1,131",11,Customs services and international tracking provided
+224.8,LG,89,Pre-Owned,29.98,from United States,24,6,Customs services and international tracking provided
+189.99,Motorola,27,Excellent - Refurbished,29.31,from United States,85,14,Customs services and international tracking provided
+139.99,Google,650,Good - Refurbished,28.36,from United States,32,15,Customs services and international tracking provided
+69,New,334,Brand New,19.18,from United States,26,8,Customs services and international tracking provided
+338.00 to 378.00,Samsung,18,Pre-Owned,32.13,from United States,132,2,Customs services and international tracking provided
+320,Inmarsat,166,Pre-Owned,Free,from Japan,45,36,None
+209.93,Samsung,139,Open Box,29.69,from United States,14,8,None
+129.95,4G,6,Open Box,28.17,from United States,7,9,None
+83.85 to 129.95,Samsung,2,Good - Refurbished,20.34,from United States,41,1,None
+648.95,New,56,Open Box,38.03,from United States,22,4,None
+158.88,Motorola,1,Brand New,28.72,from United States,22,2,None
+135,Google,6,Good - Refurbished,28.27,from United States,67,85,None
+126.45,Google,11,Good - Refurbished,43.56,from United Kingdom,81,41,None
+27.99,SKY,1,Pre-Owned,26.24,from United States,151,22,None
+119.99,Samsung,14,Very Good - Refurbished,27.98,from United States,132,5,None
+515,Samsung,53,Very Good - Refurbished,35.49,from United States,46,15,None
+5.00 to 7.50,Case,1,Brand New,6.26,from United Kingdom,156,4,None
+206.57,Apple,7,Good - Refurbished,46,from United Kingdom,21,19,None
+240.9,Samsung,7,Pre-Owned,30.28,from United States,71,28,None
+209.99,Google,22,Very Good - Refurbished,29.69,from United States,74,29,None
+752.39,Apple,7,Very Good - Refurbished,40,from United States,6,8,None
+1.24 to 3.73,Case,9,Brand New,39.81,from United Kingdom,35,5,None
+158.99,NEW,17,Brand New,28.73,from United States,38,23,None
+25.65,Hormann,16,Brand New,Shipping,from France,70,39,None
+309.95,Apple,184,Brand New,45.59,from United States,182,88,None
+49.99,Samsung,13,Pre-Owned,31.58,from United States,93,3,None
+109.99 to 179.99,Apple,3,Pre-Owned,29.12,from United States,18,31,None
+99.8,Samsung,4,Pre-Owned,27.6,from United States,92,3,None
+95,Apple,184,Pre-Owned,27.51,from United States,30,3,None
+339.99,OnePlus,2,Brand New,32.16,from United States,63,21,None
+321.95,Samsung,2,Parts Only,26.83,from Italy,9,5,None
+707.39,Samsung,1,Good - Refurbished,39.14,from United States,179,2,None
+520.38,SHARP,221,Pre-Owned,Free,from Japan,553,5,None
+154.99,Motorola,2,Brand New,28.65,from United States,42,19,None
+59.99,MARVUE,8,Brand New,26.84,from United States,112,3,None
+180,Apple,96,Excellent - Refurbished,29.12,from United States,7,17,None
+129.49,Unlocked,1,Open Box,28.16,from United States,211,16,None
+154.99,Unlocked,101,Pre-Owned,46.99,from United States,9,9,None
+306.89,Apple,5,Very Good - Refurbished,31.54,from United States,34,3,None
+6.25 to 8.75,3x,59,Brand New,6.26,from United Kingdom,6,10,None
+279,OUKITEL,7,Brand New,80,from China,33,35,None
+509.99 to 539.99,Apple,26,Pre-Owned,35.96,from United States,168,3,None
+56.33,SAMSUNG,3,Brand New,41.42,from United Kingdom,52,10,None
+384.99,Apple,13,Good - Refurbished,33.02,from United States,32,23,None
+37.99,For,4,Parts Only,26.43,from United States,54,3,None
+72.79,Samsung,225,Good - Refurbished,19.25,from United States,110,41,None
+169,FULLY,5,Open Box,28.92,from United States,54,None,None
+399.90 to 399.95,Samsung,45,Open Box,33.3,from United States,930,None,None
+527.99,Apple,160,Excellent - Refurbished,35.74,from United States,32,None,None
+85,Motorola,1,Open Box,27.32,from United States,78,None,None
+37.51,Somfy,117,Brand New,10.62,from France,99,None,None
+243,Samsung,1,Very Good - Refurbished,30.32,from United States,22,None,None
+458.32,Apple,3,Excellent - Refurbished,34.41,from United States,28,None,None
+16.41,MP3,7,Brand New,Free,from China,584,None,None
+36.99,Nokia,3,Open Box,Free,from China,31,None,None
+239.99,LG,5,Good - Refurbished,30.26,from United States,29,None,None
+105,Samsung,22,Pre-Owned,27.7,from United States,33,None,None
+145,Tecno,45,Brand New,28.46,from United States,542,None,None
+159.99,Samsung,4,Good - Refurbished,28.74,from United States,649,None,None
+7.5,For,25,Brand New,6.26,from United Kingdom,9,None,None
+389.99,Google,3,Open Box,33.11,from United States,436,None,None
+66.77,10.1Inch,64,Brand New,0.61,from China,51,None,None
+291.00 to 433.00,Apple,10,Very Good - Refurbished,31.23,from United States,48,None,None
+90.13,Samsung,32,Brand New,42.46,from United Kingdom,55,None,None
+209.99,Samsung,19,Pre-Owned,29.69,from United States,102,None,None
+159.95 to 249.95,Samsung,6,Open Box,21.29,from United States,33,None,None
+159.99,Degoogled,48,Pre-Owned,28.74,from United States,35,None,None
+49.95,Wiko,2,Very Good - Refurbished,26.65,from United States,79,None,None
+179.95 to 314.95,Samsung,4,Open Box,22.05,from United States,21,None,None
+239.99,Samsung,12,Pre-Owned,30.26,from United States,18,None,None
+719.99,Sony,1,Brand New,39.38,from United States,64,None,None
+113.93,Samsung,1,Good - Refurbished,43.18,from United Kingdom,721,None,None
+89.99,Apple,43,Pre-Owned,27.41,from United States,74,None,None
+699.99,Apple,12,Pre-Owned,39,from United States,120,None,None
+140.22 to 152.74,Samsung,4,Good - Refurbished,44.36,from United Kingdom,191,None,None
+698.95 to 768.95,APPLE,16,Open Box,38.98,from United States,35,None,None
+55,Moto,36,Pre-Owned,26.75,from United States,69,None,None
+399.55,Apple,13,Brand New,33.3,from United States,36,None,None
+51.39,D18,16,Brand New,0.65,from China,20,None,None
+152.99 to 222.74,Apple,25,Good - Refurbished,29.94,from United States,108,None,None
+5.00 to 7.50,Case,3,Brand New,6.26,from United Kingdom,376,None,None
+30.04,Brand,23,Brand New,40.61,from United Kingdom,14,None,None
+298.88,Straight,43,Brand New,31.38,from United States,88,None,None
+498.95 to 564.95,Apple,5,Brand New,35.18,from United States,23,None,None
+169.98,Samsung,211,Open Box,28.93,from United States,20,None,None
+5.00 to 10.00,Gorilla,44,Brand New,6.26,from United Kingdom,None,None,None
+7.5,For,8,Brand New,6.26,from United Kingdom,None,None,None
+48.45,Motorola,142,Brand New,26.62,from United States,None,None,None
+189.99,Google,1,Excellent - Refurbished,29.31,from United States,None,None,None
+119.99,Motorola,46,Excellent - Refurbished,27.98,from United States,None,None,None
+189.99,Samsung,10,Pre-Owned,29.31,from United States,None,None,None
+1.24 to 4.44,Case,97,Brand New,39.84,from United Kingdom,None,None,None
+47.51 to 60.38,Apple,42,Good - Refurbished,26.61,from United States,None,None,None
+84.8,LG,22,Pre-Owned,27.32,from United States,None,None,None
+209.99,Samsung,110,Pre-Owned,29.69,from United States,None,None,None
+179.99,Samsung,1,Pre-Owned,29.12,from United States,None,None,None
+419.99,Google,3,Brand New,33.68,from United States,None,None,None
+18.77,Small,6,Brand New,16.26,from United Kingdom,None,None,None
+469.00 to 519.00,Samsung,3,Very Good - Refurbished,34.62,from United States,None,None,None
+174.99,Google,34,Pre-Owned,29.03,from United States,None,None,None
+119.7,I14,342,Brand New,9.88,from China,None,None,None
+40.06,SAMSUNG,41,Brand New,Free,from China,None,None,None
+200.31 to 413.15,Samsung,16,Brand New,45.81,from United Kingdom,None,None,None
+189.99,BlackBerry,1,Brand New,39.3,from United States,None,None,None
+629,Apple,8,Good - Refurbished,37.66,from United States,None,None,None
+99.99,Apple,2,Pre-Owned,27.6,from United States,None,None,None
+739.99,Apple,1,Open Box,39.76,from United States,None,None,None
+279,Genuine,10,Pre-Owned,75,from Ukraine,None,None,None
+52.83 to 54.09,I14,1,Brand New,Free,from China,None,None,None
+84.95 to 214.95,Apple,39,Pre-Owned,19.48,from United States,None,None,None
+152.74,Huawei,None,Very Good - Refurbished,44.36,from United Kingdom,None,None,None
+229.99,Motorola,None,Pre-Owned,30.07,from United States,None,None,None
+312.99,New,None,Brand New,49.24,from United Kingdom,None,None,None
+289.99,OnePlus,None,Pre-Owned,31.21,from United States,None,None,None
+87.63,BNIB,None,Brand New,46.11,from United Kingdom,None,None,None
+64.99,Alcatel,None,Brand New,26.94,from United States,None,None,None
+100.16,NEW,None,Pre-Owned,Shipping,from United Kingdom,None,None,None
+399.99,Samsung,None,Very Good - Refurbished,33.3,from United States,None,None,None
+249,Samsung,None,Open Box,30.44,from United States,None,None,None
+64.88,Motorola,None,Brand New,26.94,from United States,None,None,None
+40.99,LG,None,Pre-Owned,18.65,from United States,None,None,None
+233.87,New,None,Brand New,46.84,from United Kingdom,None,None,None
+109.95 to 244.94,Samsung,None,Open Box,20.24,from United States,None,None,None
+113.99,Original,None,Open Box,18,from China,None,None,None
+239,Samsung,None,Pre-Owned,30.25,from United States,None,None,None
+199,Apple,None,Pre-Owned,21.65,from United States,None,None,None
+14.9,New,None,New (Other),37.56,from United Kingdom,None,None,None
+315.99,Samsung,None,Brand New,50.05,from United States,None,None,None
+49.99,Samsung,None,Brand New,26.65,from United States,None,None,None
+549.99,HTC,None,Open Box,36.15,from United States,None,None,None
+369.99,Google,None,Open Box,32.73,from United States,None,None,None
+140,Apple,None,Brand New,39.66,from United States,None,None,None
+549.99,ãú®,None,Pre-Owned,36.15,from United States,None,None,None
+7.5,2X,None,Brand New,6.26,from United Kingdom,None,None,None
+799.2,CAT,None,Brand New,Free,from Romania,None,None,None
+99,Tracfone(Locked),None,Brand New,72.4,from United States,None,None,None
+788.7,Apple,None,Brand New,63.75,from United Kingdom,None,None,None
+98.99,CRICKET,None,Brand New,27.59,from United States,None,None,None
+117.99 to 121.99,Samsung,None,Pre-Owned,27.95,from United States,None,None,None
+7.5,Case,None,Brand New,6.26,from United Kingdom,None,None,None
+84.99,Samsung,None,Pre-Owned,27.32,from United States,None,None,None
+14.69,Small,None,Brand New,Free,from China,None,None,None
+7.5,Case,None,Brand New,6.26,from United Kingdom,None,None,None
+38.99,For,None,Parts Only,26.45,from United States,None,None,None
+248.88,NEW,None,Brand New,30.43,from United States,None,None,None
+331.77,Samsung,None,Brand New,49.82,from United Kingdom,None,None,None
+249.59,Apple,None,Pre-Owned,30.45,from United States,None,None,None
+199.99,Xiaomi,None,Brand New,29.5,from United States,None,None,None
+53.65,NOKIA,None,New (Other),13.94,from Germany,None,None,None
+7.5,Case,None,Brand New,6.26,from United Kingdom,None,None,None
+281.83,Samsung,None,Brand New,52.16,from United Kingdom,None,None,None
+129.55,Kyocera,None,Open Box,28.17,from United States,None,None,None
+229.95 to 314.95,Samsung,None,Open Box,22.24,from United States,None,None,None
+59.00 to 64.00,Apple,None,Good - Refurbished,26.92,from United States,None,None,None
+109.99,LG,None,Open Box,27.79,from United States,None,None,None
+419.41 to 438.19,Samsung,None,Brand New,53.06,from United Kingdom,None,None,None
+13.62,Dual,None,Brand New,0.73,from China,None,None,None
+129.99,Metro,None,Brand New,28.17,from United States,None,None,None
+7.50 to 10.00,Full,None,Brand New,6.26,from United Kingdom,None,None,None
+"899.99 to 1,299.99",APPLE,None,Open Box,44.7,from United States,None,None,None
+261,Foma,None,Pre-Owned,23,from Japan,None,None,None
+281.99,Samsung,None,Brand New,31.06,from United States,None,None,None
+189.99,Google,None,Excellent - Refurbished,29.31,from United States,None,None,None
+134.85,Google,None,Pre-Owned,28.27,from United States,None,None,None
+259.99,Samsung,None,Pre-Owned,30.64,from United States,None,None,None
+99.99,Apple,None,Pre-Owned,27.6,from United States,None,None,None
+115.99,UMIDIGI,None,Brand New,27.91,from United States,None,None,None
+99.95 to 169.95,Google,None,Open Box,21.1,from United States,None,None,None
+92.65,LG,None,Pre-Owned,Free,from China,None,None,None
+"779.99 to 1,099.99",Apple,None,Pre-Owned,40.9,from United States,None,None,None
+189,Apple,None,Open Box,29.3,from United States,None,None,None
+30.04,Zanco,None,Brand New,40.61,from United Kingdom,None,None,None
+75,Blackberry,None,Brand New,37.68,from United States,None,None,None
+104.99,Unlocked,None,Pre-Owned,27.7,from United States,None,None,None
+461.99,Apple,None,Excellent - Refurbished,34.48,from United States,None,None,None
+121.55,Apple,None,Open Box,28.01,from United States,None,None,None
+89.99,EXCELLENT,None,Pre-Owned,27.41,from United States,None,None,None
+171.59,Motorola,None,Excellent - Refurbished,28.96,from United States,None,None,None
+5,FOR,None,Brand New,39.85,from United Kingdom,None,None,None
+340.99,Apple,None,Very Good - Refurbished,32.18,from United States,None,None,None
+344.99,Unlocked,None,Pre-Owned,50.6,from United States,None,None,None
+119.8,Motorola,None,Pre-Owned,27.98,from United States,None,None,None
+111.42,Google,None,Excellent - Refurbished,43.09,from United Kingdom,None,None,None
+183.99,NEW,None,Brand New,29.2,from United States,None,None,None
+26.5,4,None,Brand New,Free,from China,None,None,None
+34.67 to 35.04,Dual-Screen,None,Brand New,Free,from China,None,None,None
+8.99 to 10.91,For,None,Brand New,25.91,from United States,None,None,None
+149.99,Google,None,Very Good - Refurbished,28.55,from United States,None,None,None
+176.53,Google,None,Good - Refurbished,45.08,from United Kingdom,None,None,None
+12.34,For,None,Brand New,18.1,from United States,None,None,None
+119.99,SHARP,None,Pre-Owned,Free,from Japan,None,None,None
+33.22 to 43.67,Red,None,Pre-Owned,Free,from China,None,None,None
+279.98,NEW!,None,Open Box,62.59,from United States,None,None,None
+64.99,Unlocked,None,Pre-Owned,19.1,from United States,None,None,None
+249.99,Apple,None,Pre-Owned,30.45,from United States,None,None,None
+398.95 to 418.95,SAMSUNG,None,Open Box,33.66,from United States,None,None,None
+84.99,Samsung,None,Pre-Owned,27.32,from United States,None,None,None
+469.99 to 509.99,Apple,None,Pre-Owned,35.39,from United States,None,None,None
+524.97 to 649.97,Apple,None,Good - Refurbished,36.06,from United States,None,None,None
+5.00 to 10.00,6D,None,Brand New,6.26,from United Kingdom,None,None,None
+358.95 to 398.95,Apple,None,Open Box,33.28,from United States,None,None,None
+259.99,NEW,None,Brand New,30.64,from United States,None,None,None
+54.99,Apple,None,Pre-Owned,24.56,from United States,None,None,None
+148.99,Huawei,None,Very Good - Refurbished,44.25,from United Kingdom,None,None,None
+55.5,I13pro,None,Brand New,0.49,from China,None,None,None
+219.99,Google,None,Open Box,29.88,from United States,None,None,None
+35.04,NOKIA,None,New (Other),3.76,from China,None,None,None
+84.99,Samsung,None,Pre-Owned,27.32,from United States,None,None,None
+64.97,TCL,None,Pre-Owned,26.94,from United States,None,None,None
+123.95,NEW,None,Brand New,61.55,from United Kingdom,None,None,None
+167.19,Save,None,Brand New,25.24,from Australia,None,None,None
+129.99,Samsung,None,Excellent - Refurbished,28.17,from United States,None,None,None
+215,Samsung,None,Excellent - Refurbished,29.79,from United States,None,None,None
+275.45,Mint,None,Pre-Owned,34.5,from United States,None,None,None
+99.8,Samsung,None,Pre-Owned,27.6,from United States,None,None,None
+243,Samsung,None,Very Good - Refurbished,30.32,from United States,None,None,None
+80,Apple,None,Pre-Owned,34.5,from United States,None,None,None
+455.9,4G,None,Open Box,Free,from China,None,None,None
+219,Samsung,None,Brand New,Free,from China,None,None,None
+197,Tecno,45,Brand New,Free,from India,54,26,Customs services and international tracking provided
+13.94,HTC,6,Pre-Owned,59.55,from United States,19,21,Customs services and international tracking provided
+31.15,Samsung,1,Pre-Owned,26.3,from United States,51,41,Customs services and international tracking provided
+212.83,Samsung,43,Pre-Owned,37.55,from United Kingdom,9,41,Customs services and international tracking provided
+80,Apple,55,Pre-Owned,34.5,from United States,9,3,Customs services and international tracking provided
+109.95 to 244.95,Samsung,7,Open Box,20.24,from United States,115,12,Customs services and international tracking provided
+124.95,New/Sealed,1,Brand New,28.08,from United States,286,14,Customs services and international tracking provided
+199.99,Samsung,267,Pre-Owned,29.5,from United States,234,16,Customs services and international tracking provided
+84.95,Umidigi,7,Brand New,27.32,from United States,21,4,Customs services and international tracking provided
+597.99,Samsung,178,Pre-Owned,37.07,from United States,29,60,Customs services and international tracking provided
+139.99,Samsung,7,Pre-Owned,28.36,from United States,301,191,Customs services and international tracking provided
+257.45,Samsung,1,Brand New,26.72,from Germany,126,15,Customs services and international tracking provided
+229.49,Samsung,8,Brand New,30.06,from United States,79,11,Customs services and international tracking provided
+114.85 to 194.85,Samsung,5,Open Box,21,from United States,37,9,Customs services and international tracking provided
+99.97,Apple,47,Good - Refurbished,27.6,from United States,65,5,Customs services and international tracking provided
+149.95,Samsung,2,Pre-Owned,41,from United States,51,13,Customs services and international tracking provided
+0.1,NEW,1,Pre-Owned,25.71,from United States,59,37,Customs services and international tracking provided
+135,Unlocked,56,Very Good - Refurbished,28.27,from United States,13,4,Customs services and international tracking provided
+15.65,BRAND,5,New (Other),31.3,from United Kingdom,100,26,Customs services and international tracking provided
+47.56,Brand,1,Brand New,41.15,from United Kingdom,15,7,Customs services and international tracking provided
+99.99 to 109.99,Samsung,14,Very Good - Refurbished,27.6,from United States,240,14,None
+3.69,Case,5,Brand New,39.81,from United Kingdom,97,6,None
+42.31 to 100.00,Apple,2,Pre-Owned,27.4,from United States,160,22,None
+299.98,NEW!,22,Open Box,94.92,from United States,54,89,None
+193.66,Brand,3,Brand New,1,from China,11,3,None
+10.61,CAME,9,Brand New,5.2,from France,69,6,None
+669.81 to 707.37,Samsung,5,Good - Refurbished,32.54,from United Kingdom,"1,059",42,None
+235,Samsung,6,Good - Refurbished,30.17,from United States,39,33,None
+120.03,Samsung,27,Pre-Owned,Free,from China,127,1,None
+95.99,LG,3,Pre-Owned,Free,from China,179,21,None
+230.99 to 299.99,UMIDIGI,56,Brand New,30.09,from United States,12,10,None
+159.99,UMIDIGI,2,Brand New,28.74,from United States,55,14,None
+747.99,Apple,2,Very Good - Refurbished,39.92,from United States,476,18,None
+355.00 to 395.00,Apple,1,Very Good - Refurbished,32.45,from United States,15,25,None
+642.82,Fairphone,14,Brand New,51.51,from Germany,196,1,None
+49.99,Samsung,52,Pre-Owned,26.65,from United States,100,16,None
+10,Nokia,64,Pre-Owned,30.63,from United States,8,11,None
+9.49 to 11.39,For,20,Brand New,18.07,from United States,17,11,None
+119.99,Revvl,37,Open Box,27.98,from United States,18,28,None
+227.98,Samsung,29,Open Box,30.04,from United States,162,32,None
+114.99,Apple,1,Good - Refurbished,27.89,from United States,33,11,None
+51.99,BLU,103,Pre-Owned,26.69,from United States,182,9,None
+7.5,Braided,345,Brand New,6.26,from United Kingdom,17,23,None
+169.99,Samsung,15,Pre-Owned,28.93,from United States,136,20,None
+94.9,LG,66,Pre-Owned,27.51,from United States,42,3,None
+69.99,UMIDIGI,159,Brand New,27.03,from United States,45,25,None
+499.99,Apple,7,Excellent - Refurbished,35.2,from United States,143,10,None
+172.99,Google,18,Pre-Owned,28.99,from United States,25,47,None
+625.99,Samsung,30,Brand New,58.79,from United Kingdom,60,5,None
+84.99,Samsung,66,Pre-Owned,27.32,from United States,18,103,None
+734.99,Apple,11,Excellent - Refurbished,39.67,from United States,14,5,None
+127.99 to 139.92,Rugged,9,Brand New,28.14,from United States,32,16,None
+192.59,Samsung,90,Good - Refurbished,29.36,from United States,54,17,None
+115,Razer,57,Pre-Owned,27.89,from United States,19,17,None
+769.99 to 799.99,Samsung,37,Open Box,40.33,from United States,18,18,None
+79.00 to 82.00,Nokia,31,Brand New,Free,from China,21,3,None
+187.00 to 229.00,Apple,509,Excellent - Refurbished,29.26,from United States,7,26,None
+7.5,Case,236,Brand New,6.26,from United Kingdom,386,21,None
+104.99,Google,162,Very Good - Refurbished,27.7,from United States,85,28,None
+74.99,8-Oct,46,Pre-Owned,27.13,from United States,51,49,None
+71.94,NUU,22,Pre-Owned,27.07,from United States,75,63,None
+56,Nokia,372,Open Box,Free,from China,46,12,None
+24.99,2G,8,Brand New,8.51,from China,15,18,None
+250,Samsung,3,Parts Only,30.45,from United States,15,8,None
+94.99,Samsung,9,Pre-Owned,27.51,from United States,12,11,None
+494.67,Huawei,14,Brand New,58.64,from United Kingdom,40,12,None
+139.99,Samsung,14,Open Box,28.36,from United States,55,7,None
+594.97 to 599.97,Apple,46,Very Good - Refurbished,37.1,from United States,9,15,None
+149,É?ê,18,Open Box,28.54,from United States,12,3,None
+2.49 to 4.32,Case,1,Brand New,39.84,from United Kingdom,66,2,None
+37.55,BRAND,4,Brand New,40.84,from United Kingdom,327,51,None
+39.99,LG,1,Pre-Owned,18.63,from United States,28,2,None
+509.99 to 609.99,Apple,3,Pre-Owned,35.39,from United States,82,68,None
+98,Motorola,25,Very Good - Refurbished,27.57,from United States,242,40,None
+10,BLU,344,Brand New,33.64,from United States,9,4,None
+119.69,Samsung,116,Very Good - Refurbished,27.98,from United States,107,None,None
+119.8,Samsung,12,Pre-Owned,27.98,from United States,100,None,None
+87.64,NEW,2,Very Good - Refurbished,42.38,from United Kingdom,14,None,None
+224.99 to 299.99,Apple,14,Pre-Owned,Free,from Japan,41,None,None
+159.99,Samsung,2,Pre-Owned,28.74,from United States,990,None,None
+93.59,Apple,3,Good - Refurbished,27.48,from United States,259,None,None
+229.99,Google,11,Excellent - Refurbished,30.07,from United States,110,None,None
+229.49,Apple,184,Good - Refurbished,30.06,from United States,11,None,None
+129.99 to 147.99,Google,25,Very Good - Refurbished,28.17,from United States,36,None,None
+845.93,Sony,54,Brand New,42,from Hong Kong,None,None,None
+199.99,Samsung,549,Pre-Owned,29.5,from United States,None,None,None
+85.49,Apple,13,Very Good - Refurbished,27.33,from United States,None,None,None
+8.75,Braided,509,Brand New,6.26,from United Kingdom,None,None,None
+5.00 to 10.00,6d,117,Brand New,6.26,from United Kingdom,None,None,None
+360.00 to 448.00,Apple,7,Excellent - Refurbished,32.54,from United States,None,None,None
+164.95 to 219.95,Samsung,67,Open Box,21.38,from United States,None,None,None
+74.99 to 129.99,Apple,498,Pre-Owned,27.22,from United States,None,None,None
+168.96,iPhone,2,Good - Refurbished,44.86,from United Kingdom,None,None,None
+219,Apple,1,Good - Refurbished,29.87,from United States,None,None,None
+180.29 to 197.82,Samsung,12,Good - Refurbished,45.2,from United Kingdom,None,None,None
+59.95,AT&T,90,Brand New,26.84,from United States,None,None,None
+124.99,Apple,433,Good - Refurbished,28.08,from United States,None,None,None
+124.79,Samsung,5,Good - Refurbished,20.24,from United States,None,None,None
+29.99,MaxWest,7,Pre-Owned,26.27,from United States,None,None,None
+5.00 to 7.50,Case,12,Brand New,6.26,from United Kingdom,None,None,None
+395,KYOCERA,779,Brand New,Free,from Japan,None,None,None
+76,NEW,1,Pre-Owned,27.15,from United States,None,None,None
+11.26,Microsoft,40,Pre-Owned,35.04,from United Kingdom,None,None,None
+33,Stratus,114,Brand New,26.33,from United States,None,None,None
+209.99,Samsung,73,Good - Refurbished,29.69,from United States,None,None,None
+249,Samsung,21,Very Good - Refurbished,30.44,from United States,None,None,None
+229.95,Apple,16,Brand New,30.07,from United States,None,None,None
+766.95,APPLE,2,Brand New,40.28,from United States,None,None,None
+349.00 to 449.00,Apple,26,Excellent - Refurbished,32.34,from United States,None,None,None
+169.01,Google,2,Very Good - Refurbished,32.54,from United Kingdom,None,None,None
+537.00 to 605.00,Apple,150,Very Good - Refurbished,35.91,from United States,None,None,None
+182.79,Samsung,1,Brand New,Free,from China,None,None,None
+97.66,Sony,11,Brand New,Free,from China,None,None,None
+74.99,New,33,Brand New,27.13,from United States,None,None,None
+74.99 to 84.99,Apple,14,Pre-Owned,27.13,from United States,None,None,None
+"1,075.47 to 1,118.04",Apple,266,Very Good - Refurbished,73.81,from United Kingdom,None,None,None
+214,Samsung,29,Pre-Owned,29.77,from United States,None,None,None
+369.9,NEW,1,Brand New,9,from India,None,None,None
+395.99,Apple,9,Excellent - Refurbished,33.23,from United States,None,None,None
+186,iPhone,7,Pre-Owned,29.24,from United States,None,None,None
+111.43,Apple,14,Brand New,46.95,from United Kingdom,None,None,None
+277.94,Samsung,14,Good - Refurbished,48.18,from United Kingdom,None,None,None
+83.51,Fujitsu,1,Pre-Owned,10.9,from Japan,None,None,None
+30,Orbic,1,Pre-Owned,18.44,from United States,None,None,None
+26.3,Mini,6,Brand New,2.99,from China,None,None,None
+361.99,Xiaomi,70,Brand New,32.58,from United States,None,None,None
+115.96,Google,201,Pre-Owned,27.91,from United States,None,None,None
+117.99,Samsung,11,Brand New,27.95,from United States,None,None,None
+28.99,Nokia,517,Pre-Owned,Free,from China,None,None,None
+259,New,21,Open Box,30.63,from United States,None,None,None
+91.99,NEW,2,Brand New,34.5,from United States,None,None,None
+189.99,Samsung,1,Brand New,29.31,from United States,None,None,None
+199.99,iPhone,1,Pre-Owned,29.5,from United States,None,None,None
+24.97,Verizon,11,Pre-Owned,26.18,from United States,None,None,None
+214.99 to 289.99,Apple,6,Very Good - Refurbished,29.79,from United States,None,None,None
+184.99 to 208.00,Samsung,3,Excellent - Refurbished,29.22,from United States,None,None,None
+58,TCL,6,Brand New,26.81,from United States,None,None,None
+358.00 to 408.00,Apple,13,Very Good - Refurbished,32.51,from United States,None,None,None
+139,OnePlus,3,Pre-Owned,28.35,from United States,None,None,None
+429.99,OUKITEL,32,Brand New,80,from China,None,None,None
+79.9,Apple,2,Pre-Owned,27.22,from United States,None,None,None
+38.68,Apple,23,Pre-Owned,71.79,from Australia,None,None,None
+21.27,NOKIA,2,Pre-Owned,11.26,from United Kingdom,None,None,None
+276.00 to 434.00,Apple,52,Good - Refurbished,31.73,from United States,None,None,None
+124.88,Motorola,19,Brand New,28.08,from United States,None,None,None
+539.98,NEW!,None,Open Box,99.48,from United States,None,None,None
+40,Apple,None,Pre-Owned,36.31,from United States,None,None,None
+85,Samsung,None,Very Good - Refurbished,32.89,from United States,None,None,None
+338.00 to 468.00,OEM,None,Pre-Owned,28.27,from United States,None,None,None
+135,Apple,None,Excellent - Refurbished,30.59,from United States,None,None,None
+257.39,iPhone,None,Pre-Owned,27,from United States,None,None,None
+68,iPhone,None,Good - Refurbished,27.02,from United States,None,None,None
+69,Samsung,None,Brand New,Shipping,from Germany,None,None,None
+200.59,Apple,None,Good - Refurbished,31.94,from United States,None,None,None
+328.00 to 333.00,Nokia,None,Open Box,Free,from China,None,None,None
+24.99,NOKIA,None,New (Other),53.65,from Germany,None,None,None
+75.11,Motorola,None,Brand New,28.46,from United States,None,None,None
+144.99,Samsung,None,Pre-Owned,29.5,from United States,None,None,None
+199.99,Apple,None,Open Box,27.38,from United States,None,None,None
+87.99,Open,None,Open Box,29.12,from United States,None,None,None
+179.99,TCL,None,Open Box,26.46,from United States,None,None,None
+39.99,Brand,None,Brand New,27.76,from United States,None,None,None
+108,KYOCERA,None,Pre-Owned,Free,from Japan,None,None,None
+48.99,Apple,None,Pre-Owned,29.98,from United States,None,None,None
+224.99,Samsung,None,Very Good - Refurbished,32.54,from United Kingdom,None,None,None
+"976.55 to 1,076.71",Apple,None,Pre-Owned,31.89,from United States,None,None,None
+64.97,Google,None,Pre-Owned,26.56,from United States,None,None,None
+44.99 to 64.99,Xiaomi,None,Brand New,46.04,from United Kingdom,None,None,None
+207.82,AT&T,None,Brand New,45.38,from United States,None,None,None
+69.95,Samsung,None,Pre-Owned,30.28,from United States,None,None,None
+229.90 to 240.90,Motorola,None,Brand New,26.99,from United States,None,None,None
+67.88,Samsung,None,Pre-Owned,35.17,from United States,None,None,None
+80,Apple,None,Excellent - Refurbished,50.39,from United Kingdom,None,None,None
+350.50 to 363.07,Samsung,None,Good - Refurbished,27.48,from United States,None,None,None
+93.59,Samsung,None,Good - Refurbished,29.87,from United States,None,None,None
+219,Schok,None,Brand New,36.92,from United States,None,None,None
+30,Samsung,None,Brand New,Free,from China,None,None,None
+209,Original,None,Pre-Owned,Free,from China,None,None,None
+44.60 to 48.40,Samsung,None,Pre-Owned,27.79,from United States,None,None,None
+109.99 to 133.99,Apple,None,Parts Only,26.08,from United States,None,None,None
+19.95,NEW,None,Open Box,Free,from China,None,None,None
+39.99,Samsung,None,Excellent - Refurbished,29.79,from United States,None,None,None
+215,Brand,None,Brand New,40.39,from United Kingdom,None,None,None
+22.52,Amazon,None,Parts Only,59.55,from United States,None,None,None
+20.94,Motorola,None,Very Good - Refurbished,27.22,from United States,None,None,None
+79.99,Apple,None,Open Box,27.79,from United States,None,None,None
+109.55,Google,None,Very Good - Refurbished,30.25,from United States,None,None,None
+239,Samsung,None,Pre-Owned,29.11,from United States,None,None,None
+179,Apple,None,Excellent - Refurbished,27.22,from United States,None,None,None
+74.99 to 79.99,NEW,None,Pre-Owned,57.95,from France,None,None,None
+171.7,Vintage,None,Brand New,30.62,from United States,None,None,None
+240.39,Xennox,None,Pre-Owned,12.51,from United Kingdom,None,None,None
+258.87,Apple,None,Excellent - Refurbished,30.49,from United States,None,None,None
+12.51,Iridium,None,Brand New,62.6,from United Kingdom,None,None,None
+251.99 to 257.39,iPhone,None,Brand New,51.51,from Germany,None,None,None
+"2,065.80 to 3,317.80",Samsung,None,Good - Refurbished,27.89,from United States,None,None,None
+737.25,Apple,None,Brand New,31.39,from United States,None,None,None
+114.99,Apple,None,Very Good - Refurbished,38.61,from United States,None,None,None
+299.5,Samsung,None,Pre-Owned,31.4,from United States,None,None,None
+679,Apple,None,Pre-Owned,28.46,from United States,None,None,None
+299.99 to 349.99,BRAND,None,Brand New,50.77,from United Kingdom,None,None,None
+144.99,Google,None,Pre-Owned,29.31,from United States,None,None,None
+363.07,"Phoenix,V2",None,Brand New,5.2,from France,None,None,None
+189.99,9d,None,Brand New,6.26,from United Kingdom,None,None,None
+14.92,Samsung,None,Parts Only,26.83,from Italy,None,None,None
+5.00 to 10.00,For,None,Brand New,6.26,from United Kingdom,None,None,None
+305.85,Boost,None,Brand New,52.18,from United States,None,None,None
+7.5,GENUINE,None,Pre-Owned,16.26,from United Kingdom,None,None,None
+79.99,Apple,None,Pre-Owned,37.49,from United States,None,None,None
+75.11,LG,None,Pre-Owned,19.01,from United States,None,None,None
+93.99,Google,None,Pre-Owned,26.94,from United States,None,None,None
+59.99,Samsung,None,Pre-Owned,19.08,from United States,None,None,None
+64.99,NEW,None,Brand New,40.65,from United Kingdom,None,None,None
+63.85 to 144.95,PRIVATE,None,Pre-Owned,31.12,from United States,None,None,None
+31.29,???Ò,None,Pre-Owned,7,from China,None,None,None
+285,For,None,Parts Only,26.45,from United States,None,None,None
+28.00 to 38.00,Samsung,None,Pre-Owned,26.65,from United States,None,None,None
+38.99,Apple,None,Pre-Owned,36.36,from United States,None,None,None
+50.00 to 60.00,Motorola,None,Pre-Owned,27.22,from United States,None,None,None
+34.91 to 97.00,Samsung,None,Brand New,38.49,from United States,None,None,None
+79.9,Samsung,None,Open Box,37.1,from United States,None,None,None
+672.99,Unlocked,None,Open Box,33.97,from United States,None,None,None
+599.99,MOOVO,None,Brand New,5.2,from France,None,None,None
+142.99,Xiaomi,None,Brand New,50.08,from United Kingdom,None,None,None
+13.84,Samsung,None,Very Good - Refurbished,27.51,from United States,None,None,None
+93.89,Samsung,None,Pre-Owned,27.22,from United States,None,None,None
+94.99,Camera,None,Brand New,39.74,from United Kingdom,None,None,None
+79.99,Sony,None,Pre-Owned,27.6,from United States,None,None,None
+1.24 to 3.57,Samsung,None,Open Box,31.02,from United States,None,None,None
+99.96,Motorola,None,Good - Refurbished,27.79,from United States,None,None,None
+279.95,Apple,None,Very Good - Refurbished,36.65,from United States,None,None,None
+109.99,LG,None,Brand New,Free,from China,None,None,None
+576.00 to 850.00,Sonim,None,Open Box,36.46,from United States,None,None,None
+269.18,Samsung,None,Pre-Owned,27.41,from United States,None,None,None
+145,Samsung,None,Pre-Owned,27.6,from United States,None,None,None
+89.95 to 104.95,Read*,None,Parts Only,39,from United States,None,None,None
+99.99,BNIB,None,Brand New,50.73,from United Kingdom,None,None,None
+699.99,Unlocked,None,Open Box,28.5,from United States,None,None,None
+361.83,Original,None,Pre-Owned,Free,from China,None,None,None
+146.99,Apple,None,Good - Refurbished,28.63,from United States,None,None,None
+149.98,Apple,19,Pre-Owned,28.55,from United States,26,15,Customs services and international tracking provided
+29.49,New,437,Open Box,26.26,from United States,300,28,Customs services and international tracking provided
+104.95,Samsung,54,Pre-Owned,27.7,from United States,723,3,Customs services and international tracking provided
+55,Sony,2,Open Box,Free,from China,36,9,Customs services and international tracking provided
+361.83,BNIB,12,Brand New,50.73,from United Kingdom,62,24,Customs services and international tracking provided
+146.99,Unlocked,3,Open Box,28.5,from United States,6,16,Customs services and international tracking provided
+205.32 to 250.39,NEW,55,Brand New,46.87,from United Kingdom,42,14,Customs services and international tracking provided
+76.5,Samsung,15,Pre-Owned,27.16,from United States,55,47,Customs services and international tracking provided
+24.26,Nokia,7,Pre-Owned,Free,from China,23,19,Customs services and international tracking provided
+58.99,Samsung,14,Pre-Owned,26.83,from United States,751,8,Customs services and international tracking provided
+29.99,Nokia,116,Open Box,Free,from China,21,23,Customs services and international tracking provided
+450,Apple,136,Pre-Owned,34.25,from United States,20,43,Customs services and international tracking provided
+69.99 to 99.99,Apple,1,Pre-Owned,27.22,from United States,184,22,Customs services and international tracking provided
+155,FREETEL,363,Pre-Owned,Free,from Japan,39,2,Customs services and international tracking provided
+209.99 to 216.99,LG,20,Brand New,8,from China,92,12,Customs services and international tracking provided
+220.00 to 396.00,Apple,2,Pre-Owned,32.39,from United States,45,16,Customs services and international tracking provided
+93.99 to 109.99,Samsung,19,Very Good - Refurbished,27.49,from United States,521,46,Customs services and international tracking provided
+312.99,New,23,Brand New,49.24,from United Kingdom,133,4,Customs services and international tracking provided
+186.99,Samsung,3,Good - Refurbished,29.26,from United States,37,46,Customs services and international tracking provided
+90,LG,41,Pre-Owned,27.41,from United States,40,6,Customs services and international tracking provided
+81.99,Samsung,9,Pre-Owned,27.26,from United States,9,1,Customs services and international tracking provided
+762.29 to 772.19,Apple,13,Good - Refurbished,40.38,from United States,690,39,Customs services and international tracking provided
+479.95,Apple,6,Open Box,34.82,from United States,86,17,Customs services and international tracking provided
+79.99,Nokia,14,Pre-Owned,27.22,from United States,6,13,Customs services and international tracking provided
+43.81,New,4,Brand New,41.04,from United Kingdom,583,22,Customs services and international tracking provided
+281.7,Samsung,13,Pre-Owned,18.78,from United Kingdom,25,36,None
+21.27,É?êEXCELLENTÉ?êMINT,5,Excellent - Refurbished,40.35,from United Kingdom,71,79,None
+22.02,(Red),164,Brand New,0.65,from China,30,7,None
+62.59,Apple,18,Very Good - Refurbished,41.6,from United Kingdom,33,7,None
+43.56 to 95.00,Apple,60,Pre-Owned,45.43,from United States,49,2,None
+4.99,iPhone,7,Parts Only,40.79,from United States,21,26,None
+69,Coolpad,11,Excellent - Refurbished,27.02,from United States,35,5,None
+8.75,Heavy,2,Brand New,6.26,from United Kingdom,22,5,None
+345,Factory,11,Pre-Owned,32.26,from United States,63,7,None
+149.99,TCL,36,Excellent - Refurbished,28.55,from United States,512,3,None
+595.6,Fairphone,3,Brand New,51.51,from Germany,105,12,None
+25,Assorted,13,Parts Only,62.83,from United States,176,6,None
+108.99 to 125.99,Samsung,9,Open Box,27.78,from United States,122,16,None
+58.14,2023,111,Brand New,41.48,from United Kingdom,47,18,None
+99.99,CAT,29,Excellent - Refurbished,27.6,from United States,61,114,None
+345,Samsung,91,Pre-Owned,32.26,from United States,11,13,None
+425,SEALED!,3,Open Box,33.78,from United States,83,32,None
+751.17,Apple,152,Brand New,225.32,from United Kingdom,14,40,None
+10.91 to 12.34,For,14,Brand New,18.08,from United States,16,9,None
+275.43,Huawei,157,Good - Refurbished,48.1,from United Kingdom,77,4,None
+74.99,Nokia,31,Brand New,19.29,from United States,360,16,None
+134.99,Apple,3,Pre-Owned,28.27,from United States,198,10,None
+425.67,BRAND,5,Brand New,52.68,from United Kingdom,139,16,None
+49.8,Motorola,19,Pre-Owned,26.65,from United States,138,3,None
+119,Apple,465,Pre-Owned,27.97,from United States,11,6,None
+140,Google,191,Parts Only,28.36,from United States,15,6,None
+31.29,Zanco,1,Brand New,40.65,from United Kingdom,17,40,None
+389.95,OB,6,Open Box,33.11,from United States,65,39,None
+92.64,New,13,Brand New,42.53,from United Kingdom,38,33,None
+84.9,Motorola,2,Pre-Owned,27.32,from United States,10,33,None
+99.99,Sonim,87,Excellent - Refurbished,27.6,from United States,77,7,None
+237.87,Xiaomi,31,Very Good - Refurbished,32.54,from United Kingdom,179,10,None
+278.00 to 360.00,Apple,19,Pre-Owned,31.2,from United States,51,6,None
+259.99,Samsung,4,Good - Refurbished,30.64,from United States,20,5,None
+159.99,Samsung,1,Brand New,28.74,from United States,78,13,None
+69,Schok,1,Open Box,27.02,from United States,125,14,None
+801.89,Apple,40,Very Good - Refurbished,40.94,from United States,35,13,None
+10.44 to 11.96,For,5,Brand New,25.91,from United States,15,3,None
+20.02,NEW,286,Brand New,16.26,from United Kingdom,16,24,None
+599.99,Apple,142,Pre-Owned,37.1,from United States,34,19,None
+89.99,New,64,Brand New,27.41,from United States,124,2,None
+390,Apple,10,Pre-Owned,58.11,from United States,22,64,None
+110.8,BlackBerry,4,Pre-Owned,15.41,from Australia,43,8,None
+245,Google,43,Very Good - Refurbished,30.36,from United States,33,21,None
+136.99,Realme,17,Brand New,28.31,from United States,39,56,None
+159.99,Samsung,81,Brand New,28.74,from United States,9,28,None
+29.99,Blu,6,Open Box,31.27,from United States,23,None,None
+279.85,Google,14,Pre-Owned,31.02,from United States,8,None,None
+184.99,New,7,Brand New,47.56,from United States,53,None,None
+408.95,SAMSUNG,20,Open Box,33.47,from United States,15,None,None
+179.99,Samsung,1,Brand New,29.12,from United States,58,None,None
+109,???ùNEW???ù,6,Brand New,27.78,from United States,40,None,None
+215,Factory,1,Pre-Owned,29.79,from United States,74,None,None
+66.36,10.1in,19,Brand New,Free,from China,57,None,None
+181,Samsung,1,Brand New,Free,from China,10,None,None
+29.99,SKY,57,Pre-Owned,26.27,from United States,None,None,None
+159.99,Apple,6,Pre-Owned,34.74,from United States,None,None,None
+724.99,????,7,Brand New,9.8,from Hong Kong,None,None,None
+406.99,Apple,4,Very Good - Refurbished,33.44,from United States,None,None,None
+199.99,Samsung,72,Good - Refurbished,29.5,from United States,None,None,None
+21,Nokia,101,Open Box,Free,from China,None,None,None
+125.88,Kyocera,165,Open Box,28.1,from United States,None,None,None
+399,Motorola,70,Brand New,33.29,from United States,None,None,None
+81.92,Aspera,72,Brand New,15.74,from Australia,None,None,None
+96.84,Google,3,Pre-Owned,27.54,from United States,None,None,None
+519.99 to 679.99,Apple,16,Very Good - Refurbished,38.24,from United States,None,None,None
+89.99,Motorola,2,Open Box,27.41,from United States,None,None,None
+259.99 to 369.99,Apple,2,Good - Refurbished,30.83,from United States,None,None,None
+237.82,Apple,89,Very Good - Refurbished,46.95,from United Kingdom,None,None,None
+93.89,Samsung,14,Good - Refurbished,32.54,from United Kingdom,None,None,None
+7.50 to 10.00,6D,2,Brand New,6.26,from United Kingdom,None,None,None
+38.99,For,25,Parts Only,26.45,from United States,None,None,None
+59.99,Apple,11,Parts Only,26.84,from United States,None,None,None
+97,Samsung,35,Brand New,27.55,from United States,None,None,None
+624.9,Tecno,3,Brand New,9,from India,None,None,None
+169.99,LG,26,Open Box,28.93,from United States,None,None,None
+689.99,Apple,1,Excellent - Refurbished,38.81,from United States,None,None,None
+275,Apple,2,Pre-Owned,30.93,from United States,None,None,None
+679,Apple,17,Excellent - Refurbished,38.61,from United States,None,None,None
+199,NEW/SEALED,180,Brand New,106.05,from United States,None,None,None
+42,Nokia,22,Open Box,Free,from China,None,None,None
+164.99,Samsung,6,Pre-Owned,28.84,from United States,None,None,None
+20,NEW,372,Open Box,33.21,from United States,None,None,None
+149.99,Google,1,Pre-Owned,28.55,from United States,None,None,None
+75.99 to 101.99,Google,3,Very Good - Refurbished,27.64,from United States,None,None,None
+95,Motorola,7,Excellent - Refurbished,27.51,from United States,None,None,None
+7.5,For,8,Brand New,6.26,from United Kingdom,None,None,None
+699.99 to 749.99,Apple,2,Pre-Owned,39,from United States,None,None,None
+79.99,Google,231,Pre-Owned,27.22,from United States,None,None,None
+234.99,Apple,6,Pre-Owned,30.17,from United States,None,None,None
+149.95,Motorola,3,Pre-Owned,28.55,from United States,None,None,None
+27.98,Original,33,Open Box,Free,from China,None,None,None
+49.9,BRAND,3,Brand New,26.65,from United States,None,None,None
+109.99,New,14,Brand New,27.79,from United States,None,None,None
+63.93,Sony,31,Brand New,64.65,from United States,None,None,None
+89.99,Sonim,7,Excellent - Refurbished,27.41,from United States,None,None,None
+89.99,Google,1,Good - Refurbished,27.41,from United States,None,None,None
+7.50 to 10.00,For,3,Brand New,6.26,from United Kingdom,None,None,None
+171.55,Apple,3,Open Box,28.96,from United States,None,None,None
+84.99,TCL,184,Good - Refurbished,27.32,from United States,None,None,None
+319,Samsung,7,Open Box,31.77,from United States,None,None,None
+139,Samsung,1,Brand New,28.35,from United States,None,None,None
+351.5,DOOGEE,None,Brand New,Free,from China,None,None,None
+11.54 to 49.75,CORTEX,None,Brand New,74.05,from Italy,None,None,None
+259.85,Google,None,Pre-Owned,30.64,from United States,None,None,None
+219.99,Samsung,None,Pre-Owned,29.88,from United States,None,None,None
+729.99,Samsung,None,Open Box,39.57,from United States,None,None,None
+4.24,Gorilla,None,Brand New,39.83,from United Kingdom,None,None,None
+160,Xiaomi,None,Brand New,34.5,from United States,None,None,None
+739,Samsung,None,Open Box,39.75,from United States,None,None,None
+201.95 to 235.95,"6.6""",None,Open Box,Free,from China,None,None,None
+369.94 to 380.02,LG,None,Brand New,Free,from China,None,None,None
+179,Samsung,None,Good - Refurbished,21.27,from United States,None,None,None
+13.76,NOKIA,None,Pre-Owned,12.51,from United Kingdom,None,None,None
+138.00 to 169.00,Sony,None,Brand New,Free,from China,None,None,None
+109.99,Motorola,None,Very Good - Refurbished,27.79,from United States,None,None,None
+95.88,Motorola,None,Brand New,27.53,from United States,None,None,None
+99.95 to 169.95,Apple,None,Open Box,20.24,from United States,None,None,None
+129.99,Motorola,None,Open Box,28.17,from United States,None,None,None
+408.96,Samsung,None,Open Box,33.47,from United States,None,None,None
+269.17,Samsung,None,Good - Refurbished,47.91,from United Kingdom,None,None,None
+100.15,Excellent,None,Excellent - Refurbished,42.76,from United Kingdom,None,None,None
+82.88,Samsung,None,Brand New,27.28,from United States,None,None,None
+217.79,Apple,None,Very Good - Refurbished,29.84,from United States,None,None,None
+68,Google,None,Pre-Owned,35,from United States,None,None,None
+104.95 to 159.95,Samsung,None,Open Box,20.43,from United States,None,None,None
+161,Apple,None,Excellent - Refurbished,28.76,from United States,None,None,None
+759.99,Apple,None,Pre-Owned,40.14,from United States,None,None,None
+156.5,vivo,None,Pre-Owned,Free,from China,None,None,None
+54.99,OPEN,None,Open Box,26.75,from United States,None,None,None
+307.99,Apple,None,Excellent - Refurbished,31.56,from United States,None,None,None
+"2,550.00",(Unlocked)Huawei,None,Brand New,Free,from Malaysia,None,None,None
+54.74 to 57.02,I14,None,Brand New,0.61,from China,None,None,None
+411.91,Ulefone,None,Brand New,62.6,from United Kingdom,None,None,None
+169.99,Samsung,None,Brand New,28.93,from United States,None,None,None
+12.99,Nokia,None,Open Box,5.99,from China,None,None,None
+299.99,Samsung,None,Excellent - Refurbished,31.4,from United States,None,None,None
+274.99,Apple,None,Pre-Owned,30.93,from United States,None,None,None
+72.79,Motorola,None,Pre-Owned,27.09,from United States,None,None,None
+170.26 to 200.31,Apple,None,Excellent - Refurbished,44.9,from United Kingdom,None,None,None
+15,NEW,None,Pre-Owned,36.39,from United States,None,None,None
+5.00 to 7.50,For,None,Brand New,6.26,from United Kingdom,None,None,None
+106.42,Huawei,None,Very Good - Refurbished,42.94,from United Kingdom,None,None,None
+299.99,OnePlus,None,Excellent - Refurbished,31.4,from United States,None,None,None
+349.99,Samsung,None,Brand New,32.35,from United States,None,None,None
+60,Samsung,None,Pre-Owned,26.84,from United States,None,None,None
+221.34 to 249.99,Google,None,Pre-Owned,29.91,from United States,None,None,None
+65,FOR,None,Brand New,26.94,from United States,None,None,None
+219.99,Samsung,None,Pre-Owned,29.88,from United States,None,None,None
+147.00 to 149.00,Apple,None,Excellent - Refurbished,28.5,from United States,None,None,None
+123.99 to 199.99,UMIDIGI,None,Open Box,28.06,from United States,None,None,None
+169.95,Google,None,Brand New,28.93,from United States,None,None,None
+103.85,Samsung,None,Brand New,42.87,from United Kingdom,None,None,None
+19.99,Kroger,None,Brand New,26.08,from United States,None,None,None
+54.99 to 114.99,Apple,None,Open Box,27.89,from United States,None,None,None
+89.99,Kyocera,None,Pre-Owned,37.06,from United States,None,None,None
+15.01,Dual,None,Brand New,40.16,from United Kingdom,None,None,None
+6.01,For,None,Brand New,39.89,from United Kingdom,None,None,None
+309.99,Samsung,None,Brand New,31.59,from United States,None,None,None
+600.95,BRAND,None,Brand New,58.03,from United Kingdom,None,None,None
+294.00 to 368.00,Apple,None,Very Good - Refurbished,31.29,from United States,None,None,None
+59.95,Kyocera,None,Pre-Owned,56.16,from United States,None,None,None
+42.99 to 199.99,Apple,None,Pre-Owned,Free,from China,None,None,None
+175.28 to 181.54,Sony,None,Brand New,Free,from China,None,None,None
+79.99,Xiaomi,None,Brand New,27.22,from United States,None,None,None
+279.99,Apple,None,Good - Refurbished,31.02,from United States,None,None,None
+135,Samsung,None,Pre-Owned,28.27,from United States,None,None,None
+69.99,T-Mobile,None,Pre-Owned,27.03,from United States,None,None,None
+39.99,ITELCO,None,Brand New,74.8,from United States,None,None,None
+138.99 to 146.99,LG,None,Brand New,6,from China,None,None,None
+319.99,Unlocked,None,Open Box,31.78,from United States,None,None,None
+284.99,Open,None,Open Box,31.12,from United States,None,None,None
+349.99,LG,None,Brand New,32.35,from United States,None,None,None
+135.56,Samsung,None,Pre-Owned,28.28,from United States,None,None,None
+49.00 to 54.00,É??Apple,None,Pre-Owned,26.64,from United States,None,None,None
+59.95,New/Sealed,None,Brand New,45.19,from United States,None,None,None
+124.95 to 239.95,Apple,None,Open Box,20.34,from United States,None,None,None
+175.27,Xiaomi,None,Brand New,45.05,from United Kingdom,None,None,None
+264.95,Samsung,None,Pre-Owned,22.9,from United States,None,None,None
+177.99,????????Samsung,None,Brand New,29.09,from United States,None,None,None
+98.22,UNLOCKED,None,Pre-Owned,98.25,from Canada,None,None,None
+321.93,NOKIA,None,New (Other),53.65,from Germany,None,None,None
+479.99,NEW,None,Brand New,34.82,from United States,None,None,None
+287.99 to 289.99,Apple,None,Pre-Owned,31.18,from United States,None,None,None
+154,Samsung,None,Brand New,28.63,from United States,None,None,None
+2.49,SAMSUNG,None,Brand New,Free,from Greece,None,None,None
+23.99,UMX,None,Brand New,26.16,from United States,None,None,None
+161.97,Motorola,None,Open Box,47.12,from United States,None,None,None
+97.95,UNLOCKED,None,Brand New,27.57,from United States,None,None,None
+97,Apple,None,Very Good - Refurbished,27.55,from United States,None,None,None
+89.99,Xiaomi,None,Brand New,27.41,from United States,None,None,None
+105,Factory,None,Open Box,27.7,from United States,None,None,None
+75.12,MELROSE,None,Brand New,9.66,from France,None,None,None
+130,Samsung,None,Excellent - Refurbished,28.17,from United States,None,None,None
+249.99,Samsung,None,Very Good - Refurbished,30.45,from United States,None,None,None
+40,ZTE,None,Brand New,26.46,from United States,None,None,None
+434.99 to 714.99,Apple,None,Pre-Owned,Free,from Japan,None,None,None
+106.41 to 156.49,New,None,Brand New,42.94,from United Kingdom,None,None,None
+225.35,Apple,None,Good - Refurbished,46.57,from United Kingdom,None,None,None
+15,Nokia,None,Open Box,8,from China,None,None,None
+7.35 to 11.48,For,None,Brand New,18.09,from United States,None,None,None
+51,Samsung,None,Pre-Owned,26.67,from United States,None,None,None
+60.08,CAT,None,Pre-Owned,12.52,from United Kingdom,None,None,None
+89.99,Samsung,None,Pre-Owned,27.41,from United States,None,None,None
+70,Samsung,None,Pre-Owned,27.03,from United States,None,None,None
+79.95,NEW,None,Brand New,27.22,from United States,None,None,None
+219.09,Samsung,None,Very Good - Refurbished,32.54,from United Kingdom,None,None,None
+75.12,Root,None,Brand New,Free,from Italy,None,None,None
+11.39,Shockproof,None,Brand New,18.08,from United States,None,None,None
+799.99,Samsung,None,Open Box,40.9,from United States,None,None,None
+419,OUKITEL,None,Brand New,80,from China,None,None,None
+252.99,Google,None,Excellent - Refurbished,30.51,from United States,None,None,None
+154.99,Samsung,None,Good - Refurbished,28.65,from United States,None,None,None
+216.00 to 389.00,Apple,None,Pre-Owned,29.81,from United States,None,None,None
+245.13,NEW,None,Brand New,47.18,from United Kingdom,None,None,None
