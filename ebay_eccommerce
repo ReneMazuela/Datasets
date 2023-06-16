@@ -372,7 +372,7 @@ NEW,27,Pre-Owned,114.99,29.84,from United States,None,None,None
 Google,315,Excellent - Refurbished,217.5,37.1,from United States,None,None,None
 NOKIA,56,Brand New,599.99,40.31,from United Kingdom,None,None,None
 Apple,37,Very Good - Refurbished,20.02,36.8,from United States,None,None,None
-É??Samsung,9,Open Box,584.09,26.56,from United States,None,None,None
+¬É??Samsung,9,Open Box,584.09,26.56,from United States,None,None,None
 Google,149,Very Good - Refurbished,44.99,27.34,from United States,None,None,None
 Samsung,23,Good - Refurbished,85.99 to 89.99,50.86,from United Kingdom,None,None,None
 Apple,2,Very Good - Refurbished,365.57,28.92,from United States,None,None,None
@@ -404,7 +404,7 @@ C,None,Pre-Owned,179.95,27.41,from United States,None,None,None
 Apple,None,Parts Only,89.95,36.53,from United States,None,None,None
 Samsung,None,Pre-Owned,9.1,26.84,from United States,None,None,None
 Samsung,None,Open Box,17,29.69,from United States,None,None,None
-???Ò,None,Pre-Owned,59.95,7.5,from China,None,None,None
+???√±,None,Pre-Owned,59.95,7.5,from China,None,None,None
 Samsung,None,Pre-Owned,209.99,28.46,from United States,None,None,None
 Samsung,None,Pre-Owned,29.00 to 45.00,28.55,from United States,None,None,None
 Samsung,None,Open Box,144.95,29.31,from United States,None,None,None
@@ -441,7 +441,7 @@ Samsung,None,Brand New,247.49 to 251.99,32.54,from United States,None,None,None
 Samsung,None,Pre-Owned,5.00 to 6.25,31.58,from United States,None,None,None
 Cute,None,Brand New,359.99 to 389.99,10,from Israel,None,None,None
 Open,None,Open Box,309.00 to 369.00,30.26,from United States,None,None,None
-É??Samsung,None,Open Box,29.9,26.84,from United States,None,None,None
+¬É??Samsung,None,Open Box,29.9,26.84,from United States,None,None,None
 NEW,None,Brand New,239.95,49.2,from United Kingdom,None,None,None
 NEW,None,Open Box,59.99,28.17,from United States,None,None,None
 Apple,None,Open Box,311.75,29.12,from United States,None,None,None
@@ -832,7 +832,7 @@ Samsung,2,Pre-Owned,89,27.4,from United States,None,None,None
 Samsung,4,Brand New,154.99,28.65,from United States,None,None,None
 for,91,Brand New,7.5,39.93,from United Kingdom,None,None,None
 Sony,5,Pre-Owned,91,27.43,from United States,None,None,None
-???Ò,2,Pre-Owned,24.00 to 37.00,7,from China,None,None,None
+???√±,2,Pre-Owned,24.00 to 37.00,7,from China,None,None,None
 Samsung,23,Open Box,114.85 to 249.85,20.34,from United States,None,None,None
 Samsung,6,Pre-Owned,167.99,28.9,from United States,None,None,None
 Samsung,38,Pre-Owned,464.99 to 544.99,34.54,from United States,None,None,None
@@ -944,7 +944,7 @@ For,None,Brand New,13.15,26.83,from United Kingdom,None,None,None
 Apple,None,Pre-Owned,9.99,26.46,from United States,None,None,None
 Samsung,None,New (Other),8.75,29.3,from Italy,None,None,None
 Nokia,None,Pre-Owned,26.83,48.29,from United States,None,None,None
-???ùNew,None,Brand New,36.31,Shipping,from United States,None,None,None
+???¬ùNew,None,Brand New,36.31,Shipping,from United States,None,None,None
 Motorola,None,Pre-Owned,16.24,26.83,from Germany,None,None,None
 Xiaomi,None,New (Other),50,37.1,from United Kingdom,None,None,None
 FOR,None,Parts Only,99.99,27.41,from United States,None,None,None
@@ -1005,7 +1005,7 @@ Samsung,23,Brand New,409.99,33.49,from United States,147,9,None
 NEW,2,Pre-Owned,72,27.07,from United States,29,23,None
 Apple,7,Excellent - Refurbished,355.49,32.46,from United States,20,16,None
 Samsung,2,Brand New,169.99,28.93,from United States,89,13,None
-???ùNew,7,Brand New,189,29,from United States,146,28,None
+???¬ùNew,7,Brand New,189,29,from United States,146,28,None
 Samsung,251,Very Good - Refurbished,249.99,30.45,from United States,65,10,None
 New,6,Brand New,186.54,45.39,from United Kingdom,71,15,None
 Sky,26,Brand New,46.95,26.6,from United States,117,13,None
@@ -1039,7 +1039,7 @@ Apple,159,Very Good - Refurbished,125.2,29.84,from United States,25,None,None
 B&R,12,Brand New,217.79,21.59,from United States,20,None,None
 Motorola,11,Brand New,6.75,27.93,from United States,23,None,None
 Apple,3,Excellent - Refurbished,116.99,27.55,from United States,6,None,None
-É?ê,26,Open Box,96.99,29.41,from United States,62,None,None
+¬É?¬ê,26,Open Box,96.99,29.41,from United States,62,None,None
 Apple,1435,Very Good - Refurbished,195,32.79,from United States,272,None,None
 Google,1,Pre-Owned,371.00 to 565.00,27.32,from United States,147,None,None
 Samsung,13,Parts Only,84.99,33.89,from United States,197,None,None
@@ -1164,7 +1164,7 @@ Wiko,None,Open Box,112.67,26.35,from United States,None,None,None
 B25,None,Brand New,12.52,16.26,from United Kingdom,None,None,None
 For,None,Brand New,34,25.91,from United States,None,None,None
 Tracfone,None,Brand New,20.02,19.01,from United States,None,None,None
-É?ê,None,Open Box,8.99 to 10.91,30.74,from United States,None,None,None
+¬É?¬ê,None,Open Box,8.99 to 10.91,30.74,from United States,None,None,None
 OnePlus,None,Brand New,59.99,28.55,from United States,None,None,None
 Samsung,None,Pre-Owned,265,27.41,from United States,None,None,None
 Apple,None,Very Good - Refurbished,149.95,30.59,from United States,None,None,None
@@ -1352,7 +1352,7 @@ Samsung,None,Brand New,49.99,26.65,from United States,None,None,None
 HTC,None,Open Box,549.99,36.15,from United States,None,None,None
 Google,None,Open Box,369.99,32.73,from United States,None,None,None
 Apple,None,Brand New,140,39.66,from United States,None,None,None
-ãú®,None,Pre-Owned,549.99,36.15,from United States,None,None,None
+¬ã¬ú¬®,None,Pre-Owned,549.99,36.15,from United States,None,None,None
 2X,None,Brand New,7.5,6.26,from United Kingdom,None,None,None
 CAT,None,Brand New,799.2,Free,from Romania,None,None,None
 Tracfone(Locked),None,Brand New,99,72.4,from United States,None,None,None
@@ -1507,7 +1507,7 @@ Samsung,9,Pre-Owned,94.99,27.51,from United States,12,11,None
 Huawei,14,Brand New,494.67,58.64,from United Kingdom,40,12,None
 Samsung,14,Open Box,139.99,28.36,from United States,55,7,None
 Apple,46,Very Good - Refurbished,594.97 to 599.97,37.1,from United States,9,15,None
-É?ê,18,Open Box,149,28.54,from United States,12,3,None
+¬É?¬ê,18,Open Box,149,28.54,from United States,12,3,None
 Case,1,Brand New,2.49 to 4.32,39.84,from United Kingdom,66,2,None
 BRAND,4,Brand New,37.55,40.84,from United Kingdom,327,51,None
 LG,1,Pre-Owned,39.99,18.63,from United States,28,2,None
@@ -1653,7 +1653,7 @@ Google,None,Pre-Owned,93.99,26.94,from United States,None,None,None
 Samsung,None,Pre-Owned,59.99,19.08,from United States,None,None,None
 NEW,None,Brand New,64.99,40.65,from United Kingdom,None,None,None
 PRIVATE,None,Pre-Owned,63.85 to 144.95,31.12,from United States,None,None,None
-???Ò,None,Pre-Owned,31.29,7,from China,None,None,None
+???√±,None,Pre-Owned,31.29,7,from China,None,None,None
 For,None,Parts Only,285,26.45,from United States,None,None,None
 Samsung,None,Pre-Owned,28.00 to 38.00,26.65,from United States,None,None,None
 Apple,None,Pre-Owned,38.99,36.36,from United States,None,None,None
@@ -1705,7 +1705,7 @@ Apple,6,Open Box,479.95,34.82,from United States,86,17,Customs services and inte
 Nokia,14,Pre-Owned,79.99,27.22,from United States,6,13,Customs services and international tracking provided
 New,4,Brand New,43.81,41.04,from United Kingdom,583,22,Customs services and international tracking provided
 Samsung,13,Pre-Owned,281.7,18.78,from United Kingdom,25,36,None
-É?êEXCELLENTÉ?êMINT,5,Excellent - Refurbished,21.27,40.35,from United Kingdom,71,79,None
+¬É?¬êEXCELLENT¬É?¬êMINT,5,Excellent - Refurbished,21.27,40.35,from United Kingdom,71,79,None
 (Red),164,Brand New,22.02,0.65,from China,30,7,None
 Apple,18,Very Good - Refurbished,62.59,41.6,from United Kingdom,33,7,None
 Apple,60,Pre-Owned,43.56 to 95.00,45.43,from United States,49,2,None
@@ -1755,7 +1755,7 @@ Google,14,Pre-Owned,279.85,31.02,from United States,8,None,None
 New,7,Brand New,184.99,47.56,from United States,53,None,None
 SAMSUNG,20,Open Box,408.95,33.47,from United States,15,None,None
 Samsung,1,Brand New,179.99,29.12,from United States,58,None,None
-???ùNEW???ù,6,Brand New,109,27.78,from United States,40,None,None
+???¬ùNEW???¬ù,6,Brand New,109,27.78,from United States,40,None,None
 Factory,1,Pre-Owned,215,29.79,from United States,74,None,None
 10.1in,19,Brand New,66.36,Free,from China,57,None,None
 Samsung,1,Brand New,181,Free,from China,10,None,None
@@ -1878,7 +1878,7 @@ Unlocked,None,Open Box,319.99,31.78,from United States,None,None,None
 Open,None,Open Box,284.99,31.12,from United States,None,None,None
 LG,None,Brand New,349.99,32.35,from United States,None,None,None
 Samsung,None,Pre-Owned,135.56,28.28,from United States,None,None,None
-É??Apple,None,Pre-Owned,49.00 to 54.00,26.64,from United States,None,None,None
+¬É??Apple,None,Pre-Owned,49.00 to 54.00,26.64,from United States,None,None,None
 New/Sealed,None,Brand New,59.95,45.19,from United States,None,None,None
 Apple,None,Open Box,124.95 to 239.95,20.34,from United States,None,None,None
 Xiaomi,None,Brand New,175.27,45.05,from United Kingdom,None,None,None
